@@ -1,0 +1,2996 @@
+WEBVTT
+
+00:06:48.000 --> 00:06:50.000
+Ukubona LLC: Hey.
+
+00:06:51.000 --> 00:06:53.000
+Ukubona LLC: Uh, I think you're logged on.
+
+00:06:55.000 --> 00:06:58.000
+Ukubona LLC: Oh, hey, hello, Gabriel.
+
+00:06:55.000 --> 00:06:57.000
+Gabriel Ampaire: Hello?
+
+00:06:59.000 --> 00:07:01.000
+Ukubona LLC: Uh… yeah.
+
+00:07:02.000 --> 00:07:04.000
+Ukubona LLC: I can hear you.
+
+00:07:04.000 --> 00:07:06.000
+Ukubona LLC: And, uh…
+
+00:07:04.000 --> 00:07:06.000
+Gabriel Ampaire: Good.
+
+00:07:07.000 --> 00:07:12.000
+Ukubona LLC: And then that's good, so… I hope we'll have a very successful session.
+
+00:07:13.000 --> 00:07:16.000
+Gabriel Ampaire: Yeah, I didn't close anything from last time.
+
+00:07:16.000 --> 00:07:20.000
+Ukubona LLC: Okay. Alright, so, um…
+
+00:07:16.000 --> 00:07:18.000
+Gabriel Ampaire: So…
+
+00:07:20.000 --> 00:07:22.000
+Ukubona LLC: Let's see where we stand.
+
+00:07:23.000 --> 00:07:27.000
+Ukubona LLC: Let's go and try to… I'll wait for you to share your screen.
+
+00:07:31.000 --> 00:07:33.000
+Gabriel Ampaire: Okay.
+
+00:07:35.000 --> 00:07:38.000
+Ukubona LLC: Alright, so…
+
+00:07:40.000 --> 00:07:48.000
+Ukubona LLC: py environment activate requires py environment, py virtual environment to be loaded into your shell. So…
+
+00:07:48.000 --> 00:07:57.000
+Ukubona LLC: One thing we're going to do, it's… the process is supposed to be much easier, but I feel like I've skipped some steps, so…
+
+00:07:57.000 --> 00:08:02.000
+Ukubona LLC: Um, let us go to step one.
+
+00:08:02.000 --> 00:08:05.000
+Ukubona LLC: There's a part of step 1 I'm not sure we've done.
+
+00:08:06.000 --> 00:08:12.000
+Ukubona LLC: So… so you see we've done install WSL.
+
+00:08:13.000 --> 00:08:16.000
+Ukubona LLC: Then, go farther down…
+
+00:08:17.000 --> 00:08:19.000
+Ukubona LLC: Then, uh…
+
+00:08:20.000 --> 00:08:25.000
+Ukubona LLC: Did we do… we did that… did we do that? That sudo apt update? I mean, you can try.
+
+00:08:25.000 --> 00:08:28.000
+Ukubona LLC: Let's first go up, just move up a little bit.
+
+00:08:28.000 --> 00:08:33.000
+Ukubona LLC: up a little bit. We did this one, right? Did we? WSL install, did we?
+
+00:08:34.000 --> 00:08:36.000
+Gabriel Ampaire: Yeah, happy to.
+
+00:08:36.000 --> 00:08:38.000
+Ukubona LLC: The commander…
+
+00:08:38.000 --> 00:08:40.000
+Gabriel Ampaire: Should I put it in?
+
+00:08:40.000 --> 00:08:42.000
+Ukubona LLC: Yeah, copy and paste.
+
+00:08:48.000 --> 00:08:50.000
+Ukubona LLC: Mm-hmm.
+
+00:08:51.000 --> 00:08:55.000
+Ukubona LLC: WSL not found…
+
+00:08:55.000 --> 00:09:00.000
+Ukubona LLC: But can be installed… okay, copy and paste that other option. You see that command, apt install MSL?
+
+00:09:00.000 --> 00:09:06.000
+Ukubona LLC: It's at the bottom there, right there at the bottom. No, no, no. On the screen you've been on, the very screen.
+
+00:09:07.000 --> 00:09:12.000
+Ukubona LLC: It has given you an option. Let's trade. At the bottom there, you see that? Copy and paste that.
+
+00:09:12.000 --> 00:09:14.000
+Ukubona LLC: It… yeah.
+
+00:09:14.000 --> 00:09:16.000
+Ukubona LLC: That, uh-huh, and paste.
+
+00:09:17.000 --> 00:09:20.000
+Ukubona LLC: Enter, I hope that works.
+
+00:09:20.000 --> 00:09:22.000
+Ukubona LLC: Yes, good, good, good, good.
+
+00:09:23.000 --> 00:09:25.000
+Ukubona LLC: Alright, what is it saying?
+
+00:09:25.000 --> 00:09:28.000
+Ukubona LLC: After this operation…
+
+00:09:28.000 --> 00:09:31.000
+Ukubona LLC: Yes, sir, yes. Enter.
+
+00:09:38.000 --> 00:09:44.000
+Ukubona LLC: All right, that's successful. Let's go back to the menu, uh, the step one.
+
+00:09:44.000 --> 00:09:48.000
+Ukubona LLC: Okay, so we've done Win WSL…
+
+00:09:48.000 --> 00:09:51.000
+Ukubona LLC: Just move up a little bit.
+
+00:09:51.000 --> 00:09:57.000
+Ukubona LLC: Alright, restart your computer, I don't think we'll need to. We'll see if we need to, but probably not.
+
+00:09:57.000 --> 00:10:00.000
+Ukubona LLC: After restart, search for Ubuntu. You said you have Ubuntu?
+
+00:10:00.000 --> 00:10:02.000
+Gabriel Ampaire: Yeah, it's… yeah, I have it.
+
+00:10:03.000 --> 00:10:05.000
+Ukubona LLC: Okay.
+
+00:10:06.000 --> 00:10:07.000
+Ukubona LLC: Um…
+
+00:10:10.000 --> 00:10:12.000
+Gabriel Ampaire: It's just this.
+
+00:10:10.000 --> 00:10:12.000
+Ukubona LLC: So let's run…
+
+00:10:14.000 --> 00:10:16.000
+Ukubona LLC: Okay…
+
+00:10:16.000 --> 00:10:21.000
+Ukubona LLC: No, but let's stick to this other screen. There's a command coming up. The other screen, the Linux screen.
+
+00:10:21.000 --> 00:10:24.000
+Ukubona LLC: So, we're going to…
+
+00:10:25.000 --> 00:10:30.000
+Ukubona LLC: Copy and paste the command. There's a command… let's go back there… yeah.
+
+00:10:30.000 --> 00:10:35.000
+Ukubona LLC: I see a command. Just go up a little and see what he was saying just before the command.
+
+00:10:35.000 --> 00:10:40.000
+Ukubona LLC: This pseudo… move… moves browse up a little.
+
+00:10:40.000 --> 00:10:47.000
+Ukubona LLC: Yeah, so it says, create a username and password when asked. Okay, that's the Ubuntu part.
+
+00:10:47.000 --> 00:10:55.000
+Ukubona LLC: Um, copy sudo apt update, this command. These are two commands. You see this sudo apt update? Copy and paste that command.
+
+00:10:56.000 --> 00:10:59.000
+Ukubona LLC: Those are two commands. Uh-huh.
+
+00:11:00.000 --> 00:11:02.000
+Gabriel Ampaire: This alone.
+
+00:11:01.000 --> 00:11:04.000
+Ukubona LLC: All of them, all of them, both, both, yeah.
+
+00:11:07.000 --> 00:11:09.000
+Ukubona LLC: Alright, paste.
+
+00:11:12.000 --> 00:11:13.000
+Ukubona LLC: Mm-hmm.
+
+00:11:15.000 --> 00:11:17.000
+Ukubona LLC: Release security…
+
+00:11:18.000 --> 00:11:20.000
+Ukubona LLC: Looks like it's working well.
+
+00:11:22.000 --> 00:11:26.000
+Ukubona LLC: And you're doing this only once. After your setup, you'll never need to do any of this stuff.
+
+00:11:27.000 --> 00:11:29.000
+Ukubona LLC: That's the good news.
+
+00:11:29.000 --> 00:11:33.000
+Ukubona LLC: It's a one-time thing, unless you get a new computer.
+
+00:11:33.000 --> 00:11:35.000
+Gabriel Ampaire: Yeah.
+
+00:11:34.000 --> 00:11:37.000
+Ukubona LLC: Ubuntu, there we go.
+
+00:11:37.000 --> 00:11:39.000
+Ukubona LLC: Uh…
+
+00:11:46.000 --> 00:11:48.000
+Ukubona LLC: Almost there.
+
+00:12:10.000 --> 00:12:16.000
+Ukubona LLC: So, essentially, it's just creating an environment for Python, because a lot of the heavy stuff.
+
+00:12:15.000 --> 00:12:19.000
+Gabriel Ampaire: Okay. So then, I can…
+
+00:12:16.000 --> 00:12:18.000
+Ukubona LLC: Computation simulation…
+
+00:12:20.000 --> 00:12:23.000
+Gabriel Ampaire: After this is done, I can put this in.
+
+00:12:23.000 --> 00:12:28.000
+Ukubona LLC: Yeah, so we'll… when we finish step one, we'll move to the next, uh, things we haven't done.
+
+00:12:28.000 --> 00:12:34.000
+Ukubona LLC: Yeah, because I think we got stuck last time. We thought we'd finished step one, but I realized we hadn't finished step one.
+
+00:12:28.000 --> 00:12:30.000
+Gabriel Ampaire: Okay.
+
+00:12:35.000 --> 00:12:41.000
+Ukubona LLC: We had only done the part where we're stuck, but we hadn't finished it in step one, yeah.
+
+00:12:41.000 --> 00:12:44.000
+Gabriel Ampaire: Okay, hold on, then we'll come back.
+
+00:12:43.000 --> 00:12:46.000
+Ukubona LLC: Okay. Alright, sure.
+
+00:13:47.000 --> 00:13:49.000
+Ukubona LLC: Alright…
+
+00:13:50.000 --> 00:13:52.000
+Ukubona LLC: Let me know when you're back.
+
+00:13:54.000 --> 00:13:56.000
+Ukubona LLC: You're back?
+
+00:13:56.000 --> 00:14:06.000
+Ukubona LLC: Alright, yeah, it's done. So, uh, let's, uh, just browse this page before we move back to step 2. Let me see what's up to this command. It says essentials, you see?
+
+00:14:06.000 --> 00:14:10.000
+Ukubona LLC: I see Essentials, what's up to Essentials? So…
+
+00:14:11.000 --> 00:14:15.000
+Ukubona LLC: Git for Windows. If you click on Git for Windows, what do you get?
+
+00:14:19.000 --> 00:14:21.000
+Ukubona LLC: Um…
+
+00:14:21.000 --> 00:14:24.000
+Ukubona LLC: Click on install…
+
+00:14:29.000 --> 00:14:33.000
+Ukubona LLC: Uh, no, let's go back to the original instructions.
+
+00:14:33.000 --> 00:14:41.000
+Ukubona LLC: Uh, let's go back to the original ones. The ones, uh, yes. Let's just go up and make sure number… step one is completely done.
+
+00:14:41.000 --> 00:14:43.000
+Ukubona LLC: So, good for Windows…
+
+00:14:44.000 --> 00:14:48.000
+Ukubona LLC: Install the WSL extension in VS Code.
+
+00:14:49.000 --> 00:14:53.000
+Ukubona LLC: Oh. So, let's go to your VS Code.
+
+00:15:03.000 --> 00:15:07.000
+Ukubona LLC: Right? Because this is what you're going to be using, uh, uh-huh.
+
+00:15:07.000 --> 00:15:10.000
+Ukubona LLC: Uh, let's see…
+
+00:15:10.000 --> 00:15:15.000
+Ukubona LLC: Now, how do we install… just give me a second, I need to find out…
+
+00:15:16.000 --> 00:15:18.000
+Ukubona LLC: How to install…
+
+00:15:19.000 --> 00:15:24.000
+Ukubona LLC: Um… move back to instruction, did it say install Git, or…
+
+00:15:24.000 --> 00:15:27.000
+Ukubona LLC: Instruction again, let me see the screen of the instruction.
+
+00:15:28.000 --> 00:15:34.000
+Ukubona LLC: So it's Git for Windows, install WS extension, WSL extension.
+
+00:15:34.000 --> 00:15:42.000
+Ukubona LLC: Okay, let's go back to… okay, so I believe… I'm just going to Google here to see how to install on Git.
+
+00:15:43.000 --> 00:15:46.000
+Ukubona LLC: How to install…
+
+00:15:47.000 --> 00:15:49.000
+Ukubona LLC: WS L…
+
+00:15:51.000 --> 00:15:53.000
+Ukubona LLC: Envious Code.
+
+00:15:58.000 --> 00:16:01.000
+Ukubona LLC: You must first have WSL installed on Windows.
+
+00:16:01.000 --> 00:16:07.000
+Ukubona LLC: Then install VS on Windows, and finally install WSL extension VS Code.
+
+00:16:08.000 --> 00:16:12.000
+Ukubona LLC: Okay, this is exactly… so this is a simple step, I just wanted to…
+
+00:16:13.000 --> 00:16:17.000
+Ukubona LLC: It's very easy, I just can't remember exactly how to do it.
+
+00:16:20.000 --> 00:16:25.000
+Ukubona LLC: Install the… oh, extension. Okay, let's go to VS Code.
+
+00:16:25.000 --> 00:16:28.000
+Ukubona LLC: Uh, pull it up, uh, higher upside we see better.
+
+00:16:30.000 --> 00:16:41.000
+Ukubona LLC: Okay, so top left corner, actually, left margin. I think the thing at the bottom, at the bottom which looks like Windows, I think that's extensions. Yes, click there.
+
+00:16:41.000 --> 00:16:44.000
+Ukubona LLC: Now, type WSL in that space.
+
+00:16:47.000 --> 00:16:51.000
+Ukubona LLC: Let's see… click on that, click install.
+
+00:16:52.000 --> 00:16:54.000
+Ukubona LLC: And that's it.
+
+00:16:54.000 --> 00:17:04.000
+Ukubona LLC: It's that easy. So, in the future, if there's anything in VS Code you need to install, that's what you'll do. You click on extensions and type in there and install. So, we're done with that. Let's go to the next instruction.
+
+00:17:06.000 --> 00:17:08.000
+Ukubona LLC: Next instruction…
+
+00:17:09.000 --> 00:17:12.000
+Ukubona LLC: Uh, I think it's number 2.
+
+00:17:13.000 --> 00:17:18.000
+Ukubona LLC: Just a second, let me find out, I feel, oh yes, we did this.
+
+00:17:17.000 --> 00:17:19.000
+Gabriel Ampaire: The employer to do this.
+
+00:17:18.000 --> 00:17:23.000
+Ukubona LLC: We did this, it didn't work, but it's not important. You're not going to need this for now.
+
+00:17:24.000 --> 00:17:26.000
+Ukubona LLC: We're not gonna need that.
+
+00:17:24.000 --> 00:17:26.000
+Gabriel Ampaire: Don't worry about these ones?
+
+00:17:26.000 --> 00:17:33.000
+Ukubona LLC: That we need to do. I don't sure… I think we got errors the last time, so let's see that it works. Just a second before you paste.
+
+00:17:34.000 --> 00:17:39.000
+Ukubona LLC: There's something before that second line, first, and… and remove the highlight.
+
+00:17:40.000 --> 00:17:43.000
+Ukubona LLC: I feel like there's something weird… that's a hash?
+
+00:17:44.000 --> 00:17:47.000
+Ukubona LLC: Okay, let's do one at a time, because…
+
+00:17:49.000 --> 00:17:54.000
+Ukubona LLC: I have a feeling that hash sign should not be copied.
+
+00:17:54.000 --> 00:17:56.000
+Ukubona LLC: So, just do the first line.
+
+00:17:59.000 --> 00:18:01.000
+Ukubona LLC: Yeah, let's run that.
+
+00:18:06.000 --> 00:18:10.000
+Ukubona LLC: Can I proceed with installation? Kindly remove the root…
+
+00:18:12.000 --> 00:18:15.000
+Ukubona LLC: Okay, type this exactly, yeah?
+
+00:18:16.000 --> 00:18:18.000
+Ukubona LLC: Uh…
+
+00:18:18.000 --> 00:18:22.000
+Ukubona LLC: I don't know why it's doing that. Type RM…
+
+00:18:22.000 --> 00:18:25.000
+Ukubona LLC: And that screen? Space…
+
+00:18:26.000 --> 00:18:31.000
+Ukubona LLC: And paste that stuff, forward slash root. Only… don't put the quotes.
+
+00:18:32.000 --> 00:18:38.000
+Ukubona LLC: You see that stuff in the second last line there? That says forward slash root dot pyenv.
+
+00:18:39.000 --> 00:18:45.000
+Ukubona LLC: that. Yeah, don't include the quotes, just that, yeah, just that. Uh-huh. Then paste it here.
+
+00:18:47.000 --> 00:18:50.000
+Ukubona LLC: Uh-huh. Enter.
+
+00:18:50.000 --> 00:19:02.000
+Ukubona LLC: Can I remove… okay. Uh… do you have an up arrow on your keyboard? Try to type an app to see if it brings up the old command… the previous command. Do you have an up arrow or previous arrow?
+
+00:19:03.000 --> 00:19:07.000
+Ukubona LLC: Alright, just… just type the following, just type RM.
+
+00:19:07.000 --> 00:19:09.000
+Gabriel Ampaire: Yes.
+
+00:19:09.000 --> 00:19:12.000
+Ukubona LLC: type… RM…
+
+00:19:13.000 --> 00:19:15.000
+Gabriel Ampaire: RM.
+
+00:19:14.000 --> 00:19:16.000
+Ukubona LLC: Yeah, just like the one above.
+
+00:19:17.000 --> 00:19:19.000
+Ukubona LLC: space?
+
+00:19:21.000 --> 00:19:23.000
+Ukubona LLC: Uh, space.
+
+00:19:23.000 --> 00:19:25.000
+Ukubona LLC: Uh-huh, then a hyphen…
+
+00:19:25.000 --> 00:19:30.000
+Ukubona LLC: A dash, but not the lower one. No, no, not that one, that one.
+
+00:19:30.000 --> 00:19:32.000
+Ukubona LLC: Then, uh…
+
+00:19:33.000 --> 00:19:38.000
+Ukubona LLC: Um… just a second, I think, is it RF? Try RF.
+
+00:19:39.000 --> 00:19:42.000
+Ukubona LLC: RF, no space. RF…
+
+00:19:43.000 --> 00:19:45.000
+Ukubona LLC: space…
+
+00:19:46.000 --> 00:19:50.000
+Ukubona LLC: Uh, then copy and paste that forward route thing.
+
+00:19:54.000 --> 00:19:58.000
+Ukubona LLC: It's just asking us to remove that, that it's already there.
+
+00:19:58.000 --> 00:20:02.000
+Ukubona LLC: I think we installed it last time, but let's just start afresh.
+
+00:20:02.000 --> 00:20:04.000
+Ukubona LLC: It is jumped. Hmm.
+
+00:20:06.000 --> 00:20:09.000
+Ukubona LLC: No such file or directory.
+
+00:20:10.000 --> 00:20:12.000
+Ukubona LLC: Okay.
+
+00:20:14.000 --> 00:20:19.000
+Ukubona LLC: Okay, just do remove RF without the root, and only…
+
+00:20:19.000 --> 00:20:24.000
+Ukubona LLC: RM dash RF space dot pi env.
+
+00:20:25.000 --> 00:20:28.000
+Ukubona LLC: So, space dot by env.
+
+00:20:29.000 --> 00:20:31.000
+Ukubona LLC: Pi…
+
+00:20:31.000 --> 00:20:35.000
+Ukubona LLC: And… uh, EE, I've missed E.
+
+00:20:36.000 --> 00:20:43.000
+Ukubona LLC: I think you've missed an… there's an M you have included, there shouldn't be an M. It's PYEV.
+
+00:20:43.000 --> 00:20:47.000
+Ukubona LLC: Okay, uh, there's an N… no, no, you missed an N.
+
+00:20:48.000 --> 00:20:51.000
+Ukubona LLC: It's environment, Python environment.
+
+00:20:51.000 --> 00:20:54.000
+Gabriel Ampaire: Oh, okay. I wasn't sharing with you.
+
+00:20:51.000 --> 00:20:54.000
+Ukubona LLC: Remove. Yeah, yeah, yeah.
+
+00:20:56.000 --> 00:21:02.000
+Ukubona LLC: Don't worry about these commands, these are common commands that you learn later, then it's important.
+
+00:21:02.000 --> 00:21:06.000
+Ukubona LLC: ENV environment. Uh-huh, enter.
+
+00:21:07.000 --> 00:21:16.000
+Ukubona LLC: Has it worked? Okay, it's saying it's not there, so let's… let's copy and paste this again and see if it works. I don't know why it's, uh…
+
+00:21:16.000 --> 00:21:19.000
+Ukubona LLC: Uh, copy and paste that command again.
+
+00:21:22.000 --> 00:21:26.000
+Ukubona LLC: Because if it says it's already there, then we'll just move on.
+
+00:21:29.000 --> 00:21:31.000
+Ukubona LLC: Okay.
+
+00:21:30.000 --> 00:21:32.000
+Gabriel Ampaire: Yeah, it's welcome.
+
+00:21:32.000 --> 00:21:34.000
+Ukubona LLC: Oh, great.
+
+00:21:34.000 --> 00:21:40.000
+Ukubona LLC: Good, good, good. So that's, uh, you basically create… it's called a virtual Python environment. Okay, let's go to the next.
+
+00:21:40.000 --> 00:21:44.000
+Ukubona LLC: Now, just a second, uh…
+
+00:21:44.000 --> 00:21:50.000
+Ukubona LLC: The… no, so that's English, that's not code. The thing which is then add.
+
+00:21:50.000 --> 00:21:56.000
+Ukubona LLC: That's not code. Uh, so I think it's just the third line. Copy and paste the third line.
+
+00:21:56.000 --> 00:21:59.000
+Ukubona LLC: No, no, no. That one.
+
+00:22:01.000 --> 00:22:04.000
+Gabriel Ampaire: With this, um, expon…
+
+00:22:03.000 --> 00:22:06.000
+Ukubona LLC: Yes, include the quote. Include the quote.
+
+00:22:11.000 --> 00:22:13.000
+Ukubona LLC: Then, the next line…
+
+00:22:16.000 --> 00:22:20.000
+Ukubona LLC: There's two, you can get both lines. Both lines are okay.
+
+00:22:26.000 --> 00:22:32.000
+Ukubona LLC: Enter. Alright, now install Python and create environment, yes.
+
+00:22:46.000 --> 00:22:48.000
+Ukubona LLC: And…
+
+00:22:49.000 --> 00:22:54.000
+Ukubona LLC: It's not giving us a progress report. Oh, good, good, good, good.
+
+00:22:54.000 --> 00:23:00.000
+Ukubona LLC: Python environment activated requires pyenv. This is the error we're getting last time.
+
+00:23:01.000 --> 00:23:03.000
+Ukubona LLC: request by env…
+
+00:23:03.000 --> 00:23:06.000
+Ukubona LLC: Virtual environment to be loaded.
+
+00:23:08.000 --> 00:23:21.000
+Ukubona LLC: Okay, uh, you're going to type these commands. These commands, I believe, should have been in the process, but then you just type this… type my environment… you know what, let me copy and paste these commands in here.
+
+00:23:21.000 --> 00:23:26.000
+Ukubona LLC: So that you just pick them. Uh, I think it's Python 3…
+
+00:23:28.000 --> 00:23:31.000
+Ukubona LLC: I'm going to put something in the… in the chat.
+
+00:23:33.000 --> 00:23:37.000
+Ukubona LLC: Python 3 virtual environments…
+
+00:23:45.000 --> 00:23:48.000
+Ukubona LLC: So, copy and paste that command.
+
+00:23:55.000 --> 00:24:00.000
+Ukubona LLC: Hmm… the virtual environment was not created successfully.
+
+00:24:08.000 --> 00:24:11.000
+Ukubona LLC: Copy and paste that command. Have you seen that command?
+
+00:24:12.000 --> 00:24:14.000
+Ukubona LLC: That apt install.
+
+00:24:16.000 --> 00:24:18.000
+Gabriel Ampaire: Which one?
+
+00:24:18.000 --> 00:24:24.000
+Ukubona LLC: Do you see, uh, app to install epitel 1234, the fourth last line?
+
+00:24:25.000 --> 00:24:27.000
+Ukubona LLC: Fourth from the bottom, that one.
+
+00:24:30.000 --> 00:24:32.000
+Ukubona LLC: This is interesting.
+
+00:24:33.000 --> 00:24:35.000
+Ukubona LLC: Enter.
+
+00:24:36.000 --> 00:24:38.000
+Ukubona LLC: Okay, it's working.
+
+00:24:38.000 --> 00:24:47.000
+Ukubona LLC: Okay, I'm going to ask you for a favor, because, you know, it's my first time to see Windows working. Do you still want to continue? Just a second, let me read what it's saying.
+
+00:24:47.000 --> 00:24:51.000
+Ukubona LLC: Need to get to for… yes, put yes, why, and enter.
+
+00:24:58.000 --> 00:25:11.000
+Ukubona LLC: Yeah, I'm going to need your screenshot when you finish, so that I use these commands to refit the instructions, because I'm not aware of this Windows stuff. All right, I think we're successful there. Let's go back to instructions, move…
+
+00:25:13.000 --> 00:25:20.000
+Ukubona LLC: Actually, do you… can you copy and paste all the stuff on your screen and save it for me somewhere, like in a Word document?
+
+00:25:21.000 --> 00:25:27.000
+Ukubona LLC: Like, if you just copy and paste all that, because I need to… I need to modify the instructions.
+
+00:25:36.000 --> 00:25:41.000
+Ukubona LLC: You know, try copying and pasting them in the chat, and see if I can get them from there.
+
+00:25:43.000 --> 00:25:46.000
+Ukubona LLC: I don't know if the chat can handle that.
+
+00:25:48.000 --> 00:25:52.000
+Gabriel Ampaire: Yeah, there are too many. There are too many characters, so…
+
+00:25:49.000 --> 00:25:52.000
+Ukubona LLC: There are too many for the chat. Okay, just put…
+
+00:25:52.000 --> 00:25:59.000
+Ukubona LLC: put them either in WhatsApp, or… okay, WhatsApp would be crazy, but uh… yeah, WhatsApp? Trey, WhatsApp?
+
+00:26:00.000 --> 00:26:03.000
+Gabriel Ampaire: I'd have to log in, but then…
+
+00:26:00.000 --> 00:26:06.000
+Ukubona LLC: Oh, okay, no problem. Just save them for me, like, somewhere, like, in a Word document.
+
+00:26:06.000 --> 00:26:15.000
+Ukubona LLC: And… and I'll ask you to share them later, because I want to… I want to use… I want to improve the system for the next… next person.
+
+00:26:15.000 --> 00:26:19.000
+Gabriel Ampaire: Okay, hold on. Uh, I have… do I have your email?
+
+00:26:19.000 --> 00:26:23.000
+Ukubona LLC: Oh, yeah, let me type my email here, that's good, that's good.
+
+00:26:23.000 --> 00:26:25.000
+Ukubona LLC: That's a good one, uh…
+
+00:26:26.000 --> 00:26:28.000
+Ukubona LLC: I've typed it in there.
+
+00:26:28.000 --> 00:26:31.000
+Ukubona LLC: That's my last name.
+
+00:26:34.000 --> 00:26:36.000
+Gabriel Ampaire: It's going to…
+
+00:26:36.000 --> 00:26:38.000
+Ukubona LLC: Have you seen my email?
+
+00:26:38.000 --> 00:26:42.000
+Gabriel Ampaire: Hold on. Okay, I'm saving it now.
+
+00:26:39.000 --> 00:26:41.000
+Ukubona LLC: Alright.
+
+00:26:42.000 --> 00:26:44.000
+Ukubona LLC: Alright.
+
+00:27:17.000 --> 00:27:21.000
+Gabriel Ampaire: Okay, I've just saved the document, now I'm going to send it to your email.
+
+00:27:21.000 --> 00:27:23.000
+Ukubona LLC: Oh, thanks.
+
+00:27:23.000 --> 00:27:29.000
+Ukubona LLC: Yeah, that will help the next person using Windows. They won't have to go through the pain you've gone through.
+
+00:27:29.000 --> 00:27:35.000
+Ukubona LLC: Uh, because it looks like this could have taken, you know, 15 minutes.
+
+00:27:29.000 --> 00:27:31.000
+Gabriel Ampaire: Cool.
+
+00:27:35.000 --> 00:27:41.000
+Ukubona LLC: you know, the first time we met, but I think there's some mistakes, yeah.
+
+00:27:39.000 --> 00:27:41.000
+Gabriel Ampaire: Okay, good, uh…
+
+00:27:48.000 --> 00:27:52.000
+Ukubona LLC: Yeah, Windows is much better, uh, to set up.
+
+00:27:48.000 --> 00:27:50.000
+Gabriel Ampaire: Have you purchased it?
+
+00:27:52.000 --> 00:27:56.000
+Ukubona LLC: Uh, and then Mark, it's super, super easy.
+
+00:27:56.000 --> 00:27:59.000
+Gabriel Ampaire: Have you put, uh, your email in check?
+
+00:28:00.000 --> 00:28:02.000
+Ukubona LLC: Oh, yeah, I have. Can you see it?
+
+00:28:03.000 --> 00:28:05.000
+Gabriel Ampaire: Let me copy it.
+
+00:28:23.000 --> 00:28:25.000
+Gabriel Ampaire: Okay.
+
+00:28:41.000 --> 00:28:43.000
+Gabriel Ampaire: Yeah, I'll send it.
+
+00:28:43.000 --> 00:28:44.000
+Ukubona LLC: Oh, thanks.
+
+00:28:45.000 --> 00:28:51.000
+Ukubona LLC: Thanks, uh… I… I guess I'll receive it. The times email delays, uh…
+
+00:28:51.000 --> 00:28:54.000
+Ukubona LLC: Uh, but yeah, let's… let's go on, but thanks.
+
+00:28:54.000 --> 00:28:56.000
+Ukubona LLC: I'll let you know when I get it.
+
+00:28:56.000 --> 00:28:58.000
+Ukubona LLC: Oh, there it is.
+
+00:28:57.000 --> 00:28:59.000
+Gabriel Ampaire: Good.
+
+00:28:58.000 --> 00:29:01.000
+Ukubona LLC: Perfect, perfect, thank you so much.
+
+00:29:01.000 --> 00:29:08.000
+Ukubona LLC: All right, let's get back to, uh, I think step… I don't know what step this was.
+
+00:29:08.000 --> 00:29:12.000
+Ukubona LLC: Uh, I think, uh, you need to share your screen again. Yeah.
+
+00:29:18.000 --> 00:29:20.000
+Gabriel Ampaire: No, how exactly?
+
+00:29:24.000 --> 00:29:25.000
+Ukubona LLC: Alright…
+
+00:29:26.000 --> 00:29:30.000
+Ukubona LLC: Okay, so I think we had installed Python packages.
+
+00:29:31.000 --> 00:29:41.000
+Ukubona LLC: So one thing you're going to learn as you go forward, Python has a million packages, like, millions of them, okay, not millions, but thousands of them.
+
+00:29:41.000 --> 00:29:44.000
+Ukubona LLC: for different purposes. So every time you're running code.
+
+00:29:44.000 --> 00:29:51.000
+Ukubona LLC: the first lines in Python, I mean, ask you to install. So, just before we go ahead, I just want to show you, so that you know.
+
+00:29:51.000 --> 00:29:56.000
+Ukubona LLC: In the future, if you run into any trouble with Python and says, install.
+
+00:29:56.000 --> 00:30:04.000
+Ukubona LLC: Install code, install programs, don't think it's complex, it's very easy, just give me a second, I'll define.
+
+00:30:06.000 --> 00:30:15.000
+Ukubona LLC: Aaronautical engineer, Aaron… I'm looking… do you have a link to, uh, the sessions that I prepared for you?
+
+00:30:16.000 --> 00:30:19.000
+Ukubona LLC: I can't remember the name of the URL.
+
+00:30:20.000 --> 00:30:22.000
+Ukubona LLC: Uh…
+
+00:30:22.000 --> 00:30:27.000
+Ukubona LLC: The… the sessions, like, the 8 sessions that…
+
+00:30:27.000 --> 00:30:30.000
+Ukubona LLC: with Python code that I shared with you.
+
+00:30:31.000 --> 00:30:33.000
+Gabriel Ampaire: Indeed on the website.
+
+00:30:33.000 --> 00:30:35.000
+Ukubona LLC: Oh, it's on the website?
+
+00:30:35.000 --> 00:30:37.000
+Gabriel Ampaire: I think so.
+
+00:30:36.000 --> 00:30:38.000
+Ukubona LLC: Oh.
+
+00:30:38.000 --> 00:30:40.000
+Ukubona LLC: Okay, let me check.
+
+00:30:42.000 --> 00:30:44.000
+Gabriel Ampaire: Oh.
+
+00:30:45.000 --> 00:30:47.000
+Gabriel Ampaire: Hold on.
+
+00:30:46.000 --> 00:30:49.000
+Ukubona LLC: Oh, let's see digital twin, blah blah blah…
+
+00:30:49.000 --> 00:30:54.000
+Ukubona LLC: No, I don't think I put them there. But anyway, I was just trying to show you…
+
+00:30:54.000 --> 00:30:57.000
+Ukubona LLC: Uh, just give me a second, I'll find… I'll find the link.
+
+00:31:00.000 --> 00:31:02.000
+Ukubona LLC: I'm afraid of a second…
+
+00:31:04.000 --> 00:31:11.000
+Ukubona LLC: Yeah, I need to put it on the website. Okay, okay, I found it. I'm going to share with you…
+
+00:31:12.000 --> 00:31:14.000
+Gabriel Ampaire: So, I've finished setting up now.
+
+00:31:14.000 --> 00:31:18.000
+Ukubona LLC: No, we're not done. I just wanted to…
+
+00:31:18.000 --> 00:31:23.000
+Ukubona LLC: show the next… the meaning of the next step. So, I'll put a link.
+
+00:31:23.000 --> 00:31:27.000
+Ukubona LLC: I'll put a link, uh, just click on that link I put in the chat.
+
+00:31:32.000 --> 00:31:39.000
+Ukubona LLC: Okay, so if you just go to the upgrade top right corner, and we select the first session.
+
+00:31:40.000 --> 00:31:42.000
+Ukubona LLC: Yeah.
+
+00:31:42.000 --> 00:31:49.000
+Ukubona LLC: And just get session 1. Every session begins with code, and I want to show you what a program is. Now, let's go down to the code.
+
+00:31:51.000 --> 00:31:54.000
+Ukubona LLC: So you see those first things which say import?
+
+00:31:54.000 --> 00:32:02.000
+Ukubona LLC: So those are programs, so basically this means the program you're going to run is going to need those 2. One is called numpy.
+
+00:32:02.000 --> 00:32:11.000
+Ukubona LLC: The other is called matplotlib. Numpy really means numbers in Python, so for maths. And matplotlib is for, like, drawing beautiful graphs. So…
+
+00:32:11.000 --> 00:32:21.000
+Ukubona LLC: that every… every Python program begins with something like that, yeah? I just wanted you to know that, uh, in general, you start getting used to these things.
+
+00:32:16.000 --> 00:32:18.000
+Gabriel Ampaire: Sure.
+
+00:32:21.000 --> 00:32:23.000
+Ukubona LLC: Uh, once in a while.
+
+00:32:23.000 --> 00:32:29.000
+Ukubona LLC: you may have the wrong code, which misses one of these, and it gives you an error. It says, this program.
+
+00:32:29.000 --> 00:32:41.000
+Ukubona LLC: has not been installed, and that's very easy to install. You'll learn how to do that, but let's move on. I just wanted you to know that all Python begins by installing the programs they're going to use.
+
+00:32:41.000 --> 00:32:46.000
+Ukubona LLC: Yeah, so now let's go back to the instructions.
+
+00:32:46.000 --> 00:32:48.000
+Gabriel Ampaire: Oh, they're loading up.
+
+00:32:49.000 --> 00:32:50.000
+Ukubona LLC: Oh, really?
+
+00:32:50.000 --> 00:32:52.000
+Gabriel Ampaire: Yeah, it's on a loading screen.
+
+00:32:52.000 --> 00:32:54.000
+Ukubona LLC: Oh!
+
+00:33:07.000 --> 00:33:11.000
+Ukubona LLC: Okay. Yeah, this takes a minute.
+
+00:33:23.000 --> 00:33:24.000
+Ukubona LLC: Alright…
+
+00:33:38.000 --> 00:33:40.000
+Gabriel Ampaire: So…
+
+00:33:48.000 --> 00:33:51.000
+Ukubona LLC: Okay, it's ready.
+
+00:33:53.000 --> 00:33:55.000
+Ukubona LLC: Alright…
+
+00:33:56.000 --> 00:33:58.000
+Ukubona LLC: Mm-hmm.
+
+00:34:21.000 --> 00:34:27.000
+Ukubona LLC: Alright, so I believe we are step one.
+
+00:34:28.000 --> 00:34:32.000
+Ukubona LLC: Is this step 3? What step were we? I think 3?
+
+00:34:33.000 --> 00:34:35.000
+Ukubona LLC: What was it 4? Oh, I finished 3.
+
+00:34:36.000 --> 00:34:38.000
+Ukubona LLC: Oh, no, we haven't finished 3.
+
+00:34:39.000 --> 00:34:41.000
+Ukubona LLC: We are…
+
+00:34:41.000 --> 00:34:44.000
+Ukubona LLC: Install Python and create environment. Is that where we are?
+
+00:34:45.000 --> 00:34:47.000
+Gabriel Ampaire: Yeah, yeah, yeah, by here.
+
+00:34:47.000 --> 00:34:55.000
+Ukubona LLC: Yeah, we'll finish that part, I think. So we're now in install Python and create environment. No, no, we'll finish that.
+
+00:34:55.000 --> 00:34:59.000
+Ukubona LLC: So, the next part, the install Python…
+
+00:35:00.000 --> 00:35:02.000
+Ukubona LLC: that…
+
+00:35:06.000 --> 00:35:08.000
+Ukubona LLC: And enter…
+
+00:35:09.000 --> 00:35:12.000
+Ukubona LLC: Oh, this is probably designed to give us an error.
+
+00:35:18.000 --> 00:35:24.000
+Ukubona LLC: Oh, I think we finished that part, but that's okay, let's just wait. Uh, because the next one is…
+
+00:35:24.000 --> 00:35:26.000
+Ukubona LLC: piping store.
+
+00:35:26.000 --> 00:35:28.000
+Ukubona LLC: requires Python environment…
+
+00:35:30.000 --> 00:35:33.000
+Ukubona LLC: Check your shell configurations on Python.
+
+00:35:35.000 --> 00:35:41.000
+Ukubona LLC: Hmm. Let's try copying and pasting the next command. You see the one for packages?
+
+00:35:42.000 --> 00:35:45.000
+Ukubona LLC: Yeah, let's see if this works.
+
+00:35:45.000 --> 00:35:47.000
+Ukubona LLC: If it works, then we're fine.
+
+00:35:50.000 --> 00:35:59.000
+Ukubona LLC: Okay, so we need to fix this previous step. Okay, uh, can you copy and paste…
+
+00:36:02.000 --> 00:36:12.000
+Ukubona LLC: this into Claude, or into whichever AI you're using, Gemini. You see the red arrow, the red arrow? Copy and paste all that.
+
+00:36:14.000 --> 00:36:18.000
+Ukubona LLC: Yeah, copy and paste that into the AI, and to find out…
+
+00:36:18.000 --> 00:36:20.000
+Ukubona LLC: To get advice.
+
+00:36:35.000 --> 00:36:37.000
+Gabriel Ampaire: Why should I tell it?
+
+00:36:37.000 --> 00:36:42.000
+Ukubona LLC: Oh, no, just copy and paste that, you don't need to say anything. Just paste that stuff.
+
+00:36:42.000 --> 00:36:47.000
+Ukubona LLC: It will… it will understand that there's an error, and it will give you… give tips.
+
+00:36:47.000 --> 00:36:51.000
+Ukubona LLC: I can't see, uh, your screen.
+
+00:36:51.000 --> 00:36:55.000
+Ukubona LLC: But that's fine if.
+
+00:36:59.000 --> 00:37:01.000
+Ukubona LLC: It looks like…
+
+00:37:01.000 --> 00:37:06.000
+Ukubona LLC: Shell is aware of Python environment command, but has… hasn't shaken hands.
+
+00:37:13.000 --> 00:37:15.000
+Ukubona LLC: Uh…
+
+00:37:17.000 --> 00:37:24.000
+Ukubona LLC: Okay, I think… I think I can see the line we missed. To fix this, you need to ensure your shell configurations file…
+
+00:37:26.000 --> 00:37:29.000
+Ukubona LLC: Contains the initialization sequence.
+
+00:37:29.000 --> 00:37:31.000
+Ukubona LLC: Hmm.
+
+00:37:35.000 --> 00:37:37.000
+Ukubona LLC: Open your config…
+
+00:37:46.000 --> 00:37:48.000
+Ukubona LLC: Uh, we have done this, uh…
+
+00:37:49.000 --> 00:37:52.000
+Ukubona LLC: Copy and paste this and see…
+
+00:37:52.000 --> 00:37:54.000
+Ukubona LLC: Copy and paste that, uh-huh.
+
+00:38:03.000 --> 00:38:06.000
+Ukubona LLC: Okay. Uh…
+
+00:38:08.000 --> 00:38:12.000
+Ukubona LLC: There's no error, let's go back, because it's giving us further instructions.
+
+00:38:15.000 --> 00:38:17.000
+Ukubona LLC: Go farther down…
+
+00:38:26.000 --> 00:38:29.000
+Ukubona LLC: Okay, further down…
+
+00:38:29.000 --> 00:38:34.000
+Ukubona LLC: After saving the file, you must refresh your current terminal session.
+
+00:38:34.000 --> 00:38:37.000
+Ukubona LLC: Run the command corresponding to your shell.
+
+00:38:37.000 --> 00:38:42.000
+Ukubona LLC: Now, I suspect this is your share of Bash, you see Bash?
+
+00:38:43.000 --> 00:38:46.000
+Ukubona LLC: Copy and paste that stuff, which is beginning with source.
+
+00:38:49.000 --> 00:38:54.000
+Ukubona LLC: No, not that one, the next one. I'm not sure what you have, I just think it's this.
+
+00:38:55.000 --> 00:38:57.000
+Ukubona LLC: Because the first one works in a Mac.
+
+00:39:05.000 --> 00:39:07.000
+Ukubona LLC: Mm-hmm.
+
+00:39:07.000 --> 00:39:11.000
+Ukubona LLC: Good. That has worked, okay? Uh, let's go back to the AI.
+
+00:39:12.000 --> 00:39:16.000
+Ukubona LLC: Gemini, I can't remember if they have further instructions. Go down…
+
+00:39:19.000 --> 00:39:24.000
+Ukubona LLC: Once you've sourced the file, try running pyenv. Uh-huh, copy and paste that.
+
+00:39:33.000 --> 00:39:38.000
+Ukubona LLC: Good. Alright, uh-huh, no errors, let's go back.
+
+00:39:38.000 --> 00:39:40.000
+Ukubona LLC: Go back to Gemini.
+
+00:39:41.000 --> 00:39:44.000
+Ukubona LLC: Just to make sure there's nothing we've missed.
+
+00:39:46.000 --> 00:39:52.000
+Ukubona LLC: Uh, if it returns a list without an error, you're good to go.
+
+00:39:52.000 --> 00:39:54.000
+Ukubona LLC: Hmm.
+
+00:39:56.000 --> 00:39:59.000
+Ukubona LLC: Did you not give us an error?
+
+00:39:59.000 --> 00:40:05.000
+Ukubona LLC: So, but it didn't give us a list either, but let's, let's just go on for now and see.
+
+00:40:05.000 --> 00:40:11.000
+Ukubona LLC: If we can now run these commands again, you see this? Yes, these ones. Let's see if that will work.
+
+00:40:47.000 --> 00:40:49.000
+Ukubona LLC: I hope it's working.
+
+00:40:57.000 --> 00:40:59.000
+Ukubona LLC: Good, no error?
+
+00:40:59.000 --> 00:41:01.000
+Ukubona LLC: Oh, wait a second…
+
+00:41:02.000 --> 00:41:05.000
+Ukubona LLC: Let me just read through a little bit and see what's going on.
+
+00:41:07.000 --> 00:41:11.000
+Ukubona LLC: Checking for this, checking for that, no acceptable secompiling path.
+
+00:41:13.000 --> 00:41:24.000
+Ukubona LLC: So now, copy and paste everything from the red arrow up there, where there's check your shell configuration, all the way to down. Copy and paste… no, no, no, from the red, red, from the red part.
+
+00:41:24.000 --> 00:41:27.000
+Ukubona LLC: Start from the red pot, go high up.
+
+00:41:28.000 --> 00:41:32.000
+Ukubona LLC: Yeah, now go all the way to down.
+
+00:41:32.000 --> 00:41:34.000
+Ukubona LLC: put that in Gemini.
+
+00:41:35.000 --> 00:41:38.000
+Ukubona LLC: Just paste it there, and enter.
+
+00:41:40.000 --> 00:41:42.000
+Ukubona LLC: Enter…
+
+00:42:02.000 --> 00:42:06.000
+Ukubona LLC: Next, uh, go to the solution.
+
+00:42:09.000 --> 00:42:11.000
+Ukubona LLC: Yeah.
+
+00:42:14.000 --> 00:42:17.000
+Ukubona LLC: Okay, I think, uh, let's run that.
+
+00:42:50.000 --> 00:43:00.000
+Ukubona LLC: Yeah, so the setup is the biggest pain, but once you set up, you will forget about all this, but I'll try to improve it in case you need to do it again in the future.
+
+00:43:31.000 --> 00:43:33.000
+Ukubona LLC: Alright, that's done.
+
+00:43:33.000 --> 00:43:38.000
+Ukubona LLC: Okay, let's go back to Gemini and see if it had any further instructions.
+
+00:43:43.000 --> 00:43:45.000
+Ukubona LLC: Scroll down…
+
+00:43:52.000 --> 00:43:54.000
+Gabriel Ampaire: Just to install these things again.
+
+00:43:54.000 --> 00:43:59.000
+Ukubona LLC: Okay, let's… were those instructions on the other page? Let's see.
+
+00:43:59.000 --> 00:44:01.000
+Gabriel Ampaire: Yes.
+
+00:44:00.000 --> 00:44:03.000
+Ukubona LLC: Yes, they're the ones. Yeah, let's… let's try it again.
+
+00:44:35.000 --> 00:44:37.000
+Ukubona LLC: Yeah, I think this is gonna work.
+
+00:45:11.000 --> 00:45:13.000
+Gabriel Ampaire: Taking really long this time.
+
+00:45:13.000 --> 00:45:18.000
+Ukubona LLC: Yeah, yeah, so, but it seems to be working. I don't remember us reaching this step.
+
+00:45:19.000 --> 00:45:24.000
+Ukubona LLC: Yeah, Python is a big, big, big, big, big software package.
+
+00:45:24.000 --> 00:45:30.000
+Ukubona LLC: It's, you know, one of the most powerful languages, and it's free.
+
+00:45:30.000 --> 00:45:33.000
+Ukubona LLC: So, that is really cool, but uh…
+
+00:45:33.000 --> 00:45:38.000
+Ukubona LLC: Installing the process… one-time process.
+
+00:45:41.000 --> 00:45:48.000
+Ukubona LLC: If ever you want to work on another computer, you'll have to go through all this again, but I will…
+
+00:45:48.000 --> 00:45:52.000
+Ukubona LLC: I promise to improve this, I'll use all the notes you've shared.
+
+00:45:52.000 --> 00:45:54.000
+Ukubona LLC: Um…
+
+00:45:53.000 --> 00:45:58.000
+Gabriel Ampaire: But, uh, it is much easier on MacBook, on the macOS.
+
+00:45:57.000 --> 00:46:04.000
+Ukubona LLC: Oh, Mac is easier, because you see, all that we're doing, the first steps that we did were basically.
+
+00:46:04.000 --> 00:46:13.000
+Ukubona LLC: you've created a different operating system. You're working in Linux. Have you heard of Linux? So the three main operating systems in the world are Linux.
+
+00:46:10.000 --> 00:46:12.000
+Gabriel Ampaire: I've had a link.
+
+00:46:13.000 --> 00:46:15.000
+Ukubona LLC: Windows and Mac.
+
+00:46:15.000 --> 00:46:21.000
+Ukubona LLC: Now, Mac is Linux. It is set up exactly like Linux, so a Mac person doesn't need to do any of that stuff.
+
+00:46:22.000 --> 00:46:24.000
+Ukubona LLC: Does that make sense?
+
+00:46:24.000 --> 00:46:30.000
+Ukubona LLC: So here you're, like, literally creating another computer inside Windows to run Linux.
+
+00:46:30.000 --> 00:46:35.000
+Ukubona LLC: Uh, so it's much easier in a Mac. Uh, much, much easier.
+
+00:46:35.000 --> 00:46:38.000
+Ukubona LLC: Um, but…
+
+00:46:38.000 --> 00:46:46.000
+Ukubona LLC: Once it's set up, then you have… everything you'll be doing will be using either the Linux shell or VS Code, because VS Code is a shell.
+
+00:46:47.000 --> 00:46:50.000
+Ukubona LLC: A shell is this thing where you could put commands, yeah?
+
+00:46:50.000 --> 00:46:59.000
+Ukubona LLC: Because that's, uh, that's what you need for serious computing. You can't use a mouse, uh, to write programs, to run simulations, and all that stuff. You cannot use a mouse. You need…
+
+00:47:00.000 --> 00:47:02.000
+Ukubona LLC: programs that…
+
+00:47:02.000 --> 00:47:11.000
+Ukubona LLC: run automatically, and so you need a shell for that, so… but it's okay, uh, one of the main reasons this has not been smooth for you is because.
+
+00:47:11.000 --> 00:47:17.000
+Ukubona LLC: I can't test this stuff on myself, on my side. If I had a Windows computer, it would have been…
+
+00:47:17.000 --> 00:47:23.000
+Ukubona LLC: I'll be able to check. For Mark, I have done this stuff so many times, so I know.
+
+00:47:23.000 --> 00:47:27.000
+Ukubona LLC: It doesn't make any mistakes, so.
+
+00:47:27.000 --> 00:47:32.000
+Ukubona LLC: So that's the main disadvantage that I do not have experience.
+
+00:47:32.000 --> 00:47:34.000
+Ukubona LLC: With the windows.
+
+00:47:34.000 --> 00:47:41.000
+Ukubona LLC: Um… yeah, this is taking quite some time, but I'm… I'm not too surprised. Uh, this…
+
+00:47:42.000 --> 00:47:45.000
+Ukubona LLC: Uh, Python is a big package, so…
+
+00:47:46.000 --> 00:47:50.000
+Ukubona LLC: I just wish you could give us some progress notes, some percentages.
+
+00:47:50.000 --> 00:47:52.000
+Gabriel Ampaire: So…
+
+00:47:52.000 --> 00:47:54.000
+Gabriel Ampaire: This means it's, like, loading.
+
+00:47:55.000 --> 00:48:01.000
+Ukubona LLC: It's loading, yeah, it's downloading. Oh, there you go. Installed, good.
+
+00:48:02.000 --> 00:48:08.000
+Ukubona LLC: So that's the first command. Just finished the first one. First unhighlight that thing, so it's finished the first one.
+
+00:48:02.000 --> 00:48:04.000
+Gabriel Ampaire: So, done.
+
+00:48:09.000 --> 00:48:13.000
+Ukubona LLC: So, the next one is, ah, it has finished. Done.
+
+00:48:09.000 --> 00:48:11.000
+Gabriel Ampaire: Oh, okay.
+
+00:48:13.000 --> 00:48:16.000
+Ukubona LLC: It's done. So, um…
+
+00:48:18.000 --> 00:48:23.000
+Ukubona LLC: Is it active? Yeah, yeah. Now, this is… yeah, yeah, yeah.
+
+00:48:18.000 --> 00:48:20.000
+Gabriel Ampaire: Can I press this one?
+
+00:48:24.000 --> 00:48:26.000
+Ukubona LLC: Mm-hmm.
+
+00:48:26.000 --> 00:48:28.000
+Ukubona LLC: No error? Good.
+
+00:48:28.000 --> 00:48:38.000
+Ukubona LLC: Good, good, good, good, good. Now, you have Python, so we're already in Python. All these… these are packages being installed in Python, so that's good.
+
+00:48:38.000 --> 00:48:47.000
+Ukubona LLC: So in the future, if you get an error and the AI says, oh, now you need to install something, the command will always be something like that.
+
+00:48:47.000 --> 00:48:50.000
+Ukubona LLC: install the name of the package. Unhighlight, and I see…
+
+00:48:51.000 --> 00:49:02.000
+Ukubona LLC: the instructions. So, pip install, that's the standard command. So, here you're installing 1, 2, 3, 4, 5. You're installing 5 packages. One is called pandas.
+
+00:49:02.000 --> 00:49:06.000
+Ukubona LLC: That's it for data sets. My plot…
+
+00:49:04.000 --> 00:49:07.000
+Gabriel Ampaire: Okay, I understand, I understand.
+
+00:49:06.000 --> 00:49:09.000
+Ukubona LLC: You get it, huh? Yeah, yeah, so…
+
+00:49:08.000 --> 00:49:10.000
+Gabriel Ampaire: Yeah, cause this one…
+
+00:49:10.000 --> 00:49:12.000
+Gabriel Ampaire: This is why…
+
+00:49:10.000 --> 00:49:18.000
+Ukubona LLC: Uh-huh, that's it, that's it, that's it. So now you're going to be able to run that fast session. You can run all sessions now.
+
+00:49:18.000 --> 00:49:24.000
+Ukubona LLC: So, I know I've lost time, but you'll be able to do a lot of this stuff even when you're at school, yeah? I will…
+
+00:49:23.000 --> 00:49:25.000
+Gabriel Ampaire: Yeah, sure.
+
+00:49:24.000 --> 00:49:34.000
+Ukubona LLC: Date this stuff so that you have more stuff in case you run out of the 8 sessions and you're bored and want to do more advanced stuff. I'll create extra stuff for you, alright?
+
+00:49:34.000 --> 00:49:36.000
+Gabriel Ampaire: Okay.
+
+00:49:34.000 --> 00:49:41.000
+Ukubona LLC: Um, yeah, because the point is that if you can run on your computer, you don't need me. You just need…
+
+00:49:41.000 --> 00:49:45.000
+Ukubona LLC: AI, you know where to copy and paste.
+
+00:49:45.000 --> 00:49:49.000
+Ukubona LLC: And you're in business. Yeah, that's the good news.
+
+00:49:49.000 --> 00:49:55.000
+Ukubona LLC: Uh, some people want to learn how to code, me, I don't want to learn how to code when there's AI.
+
+00:49:50.000 --> 00:49:52.000
+Gabriel Ampaire: So…
+
+00:49:55.000 --> 00:49:59.000
+Ukubona LLC: Yeah? Can do the work for me. Um…
+
+00:49:58.000 --> 00:50:03.000
+Gabriel Ampaire: So, basically, uh, after all this, I'm going to…
+
+00:50:03.000 --> 00:50:08.000
+Gabriel Ampaire: come here, and then copy this into VS Code.
+
+00:50:05.000 --> 00:50:07.000
+Ukubona LLC: Mm-hmm.
+
+00:50:07.000 --> 00:50:16.000
+Ukubona LLC: Correct, correct. But I'll have to show you how to do it. I know I did it before, but I'll show you how to create a file.
+
+00:50:09.000 --> 00:50:12.000
+Gabriel Ampaire: And then, when I want to do, like.
+
+00:50:16.000 --> 00:50:22.000
+Ukubona LLC: You have to create a file, a Python file, give it a name.py.
+
+00:50:22.000 --> 00:50:25.000
+Ukubona LLC: Then you copy and paste this into the file.
+
+00:50:25.000 --> 00:50:29.000
+Ukubona LLC: Does that make sense? You will do it, we'll do it, you'll see.
+
+00:50:27.000 --> 00:50:29.000
+Gabriel Ampaire: issues.
+
+00:50:29.000 --> 00:50:36.000
+Ukubona LLC: Uh, so you have to create a file to copy and paste into on VS Code. Very easy, it's a simple command.
+
+00:50:36.000 --> 00:50:43.000
+Ukubona LLC: Um, and then you learn the command for running Python files. You just type Python, then the name of the file.
+
+00:50:45.000 --> 00:50:47.000
+Gabriel Ampaire: So, I type…
+
+00:50:47.000 --> 00:50:51.000
+Gabriel Ampaire: PY, and then do it to the name of the file.
+
+00:50:50.000 --> 00:50:58.000
+Ukubona LLC: No, no, you write the whole word Python, PYTHON, space the name of the file, it would be something like file.py.
+
+00:50:58.000 --> 00:51:04.000
+Ukubona LLC: that you have created, then you… then… then the Python command will run, and run the… it will run the…
+
+00:51:04.000 --> 00:51:06.000
+Ukubona LLC: The.
+
+00:51:05.000 --> 00:51:08.000
+Gabriel Ampaire: Wait, after the name of the file, I have to type .py.
+
+00:51:09.000 --> 00:51:11.000
+Ukubona LLC: Yes, extension.
+
+00:51:11.000 --> 00:51:13.000
+Gabriel Ampaire: Okay, then I can copy and paste.
+
+00:51:11.000 --> 00:51:14.000
+Ukubona LLC: Because every file has an extension, right?
+
+00:51:15.000 --> 00:51:20.000
+Ukubona LLC: Yeah, but don't worry, you don't need to remember, because the instructions, you have the instructions.
+
+00:51:21.000 --> 00:51:22.000
+Gabriel Ampaire: Okay.
+
+00:51:21.000 --> 00:51:26.000
+Ukubona LLC: You'll… yeah, you don't need to remember anything. You'll learn stuff.
+
+00:51:26.000 --> 00:51:39.000
+Ukubona LLC: gradually, like, memorize things, but, uh, you don't… don't spend time memorizing now. We'll… I'll make sure you have all the instructions you need. And, uh, if you get stuck, will you… are you allowed to have a WhatsApp at school?
+
+00:51:40.000 --> 00:51:43.000
+Gabriel Ampaire: Uh, yeah, I can connect to my PC.
+
+00:51:43.000 --> 00:51:51.000
+Ukubona LLC: Okay, so, like, if you're at school, uh, and, you know, you're stuck with something, just let me know and I can fix…
+
+00:51:51.000 --> 00:51:56.000
+Ukubona LLC: I can, I can address or guide you.
+
+00:51:56.000 --> 00:52:02.000
+Ukubona LLC: But there's virtually nothing in the world you can't do now, after you've set up. Oh, it's done.
+
+00:51:56.000 --> 00:51:58.000
+Gabriel Ampaire: Okay.
+
+00:52:03.000 --> 00:52:08.000
+Ukubona LLC: I think it's done, so let's go back to the instructions and see where we are.
+
+00:52:09.000 --> 00:52:11.000
+Ukubona LLC: So, all your packages are installed…
+
+00:52:12.000 --> 00:52:16.000
+Ukubona LLC: Uh, what is this? I can't remember what is here.
+
+00:52:16.000 --> 00:52:23.000
+Ukubona LLC: Oh, so this is just for pushing things to your GitHub account. So, after you finish working on stuff on your computer.
+
+00:52:23.000 --> 00:52:29.000
+Ukubona LLC: you save it in GitHub. That's important, because when you start designing apps, yeah?
+
+00:52:29.000 --> 00:52:31.000
+Gabriel Ampaire: Yeah.
+
+00:52:30.000 --> 00:52:38.000
+Ukubona LLC: they need to be on GitHub, then you connect them to the app provider, the platform on which they'll be accessed.
+
+00:52:38.000 --> 00:52:42.000
+Ukubona LLC: Uh, but don't worry about this, this is very easy, you don't need to do this now.
+
+00:52:38.000 --> 00:52:40.000
+Gabriel Ampaire: Okay.
+
+00:52:42.000 --> 00:52:45.000
+Ukubona LLC: Uh, let's move to the next command.
+
+00:52:45.000 --> 00:52:47.000
+Ukubona LLC: I mean, next section.
+
+00:52:47.000 --> 00:52:55.000
+Ukubona LLC: Publishing and practice… Okay, it looks like we're done. So, let's try session one of, uh…
+
+00:52:55.000 --> 00:52:57.000
+Ukubona LLC: of…
+
+00:52:57.000 --> 00:52:59.000
+Gabriel Ampaire: Can I close this window?
+
+00:52:59.000 --> 00:53:03.000
+Ukubona LLC: Uh, you're going to… yeah, you can close that, because we're going to use VS Code.
+
+00:53:03.000 --> 00:53:08.000
+Ukubona LLC: Yeah, so you can… just… no, no, no, no, no. Oh, wait, wait, wait, wait, wait, wait.
+
+00:53:03.000 --> 00:53:05.000
+Gabriel Ampaire: I don't save it or anything.
+
+00:53:08.000 --> 00:53:13.000
+Ukubona LLC: Copy and paste everything again for me, because there's some steps, uh…
+
+00:53:14.000 --> 00:53:18.000
+Ukubona LLC: There's some steps that we have had to do again.
+
+00:53:19.000 --> 00:53:24.000
+Ukubona LLC: Yeah, copy and paste and put it in a Word file, and just resend, because, uh…
+
+00:53:24.000 --> 00:53:27.000
+Ukubona LLC: There are some additional steps I need to fix.
+
+00:53:50.000 --> 00:53:55.000
+Ukubona LLC: Oh, actually, you know, you can stop there, because those bits… oh, he lost it.
+
+00:53:55.000 --> 00:53:57.000
+Ukubona LLC: Uh-oh.
+
+00:53:55.000 --> 00:53:57.000
+Gabriel Ampaire: No, I already copied it.
+
+00:53:57.000 --> 00:54:02.000
+Ukubona LLC: Oh yeah, that's enough there. I can just put in a document, because that part was fine.
+
+00:54:17.000 --> 00:54:23.000
+Ukubona LLC: Yeah, so I will fix this stuff in case you need to reduce ever again.
+
+00:54:23.000 --> 00:54:26.000
+Ukubona LLC: It should be very easy next time.
+
+00:54:28.000 --> 00:54:30.000
+Gabriel Ampaire: Good.
+
+00:54:30.000 --> 00:54:32.000
+Ukubona LLC: Alright…
+
+00:54:35.000 --> 00:54:37.000
+Ukubona LLC: MUZ.
+
+00:54:38.000 --> 00:54:41.000
+Ukubona LLC: Uh, if you're trying to type my address, or…
+
+00:54:44.000 --> 00:54:46.000
+Ukubona LLC: Yeah.
+
+00:55:11.000 --> 00:55:13.000
+Ukubona LLC: Alright, thanks.
+
+00:55:13.000 --> 00:55:16.000
+Ukubona LLC: Okay, so let's… let's go for session one.
+
+00:55:16.000 --> 00:55:20.000
+Ukubona LLC: And see if it works, how it works.
+
+00:55:31.000 --> 00:55:33.000
+Gabriel Ampaire: So I concludes.
+
+00:55:32.000 --> 00:55:34.000
+Ukubona LLC: Yeah, you can close that.
+
+00:55:37.000 --> 00:55:42.000
+Ukubona LLC: Okay, so there's some instructions missing here on how to create a file.
+
+00:55:42.000 --> 00:55:45.000
+Ukubona LLC: So that's what I'm going to show you. So go to VS Code.
+
+00:55:45.000 --> 00:55:52.000
+Ukubona LLC: We're gonna create a file, we'll call it, uh… you can call it session 1, or s1.py.
+
+00:55:52.000 --> 00:55:58.000
+Ukubona LLC: type… oh, you can close, uh, the left margin. Go to the top left, if you go to the top left.
+
+00:55:58.000 --> 00:56:00.000
+Ukubona LLC: Click, no, no, farther left.
+
+00:56:00.000 --> 00:56:05.000
+Ukubona LLC: Click there, there. Yeah. So, uh, then…
+
+00:56:05.000 --> 00:56:14.000
+Ukubona LLC: then pull up… oh, you have the command here. Backspace, I think there's the word Python there, backspace, we're not going to type any Python there. Backspace.
+
+00:56:15.000 --> 00:56:18.000
+Ukubona LLC: Good. So, code, CODE?
+
+00:56:18.000 --> 00:56:20.000
+Ukubona LLC: space…
+
+00:56:22.000 --> 00:56:28.000
+Ukubona LLC: space S1 for session one dot pie, it's just the name of a file, you can give it any name, s1.py.
+
+00:56:29.000 --> 00:56:31.000
+Ukubona LLC: Okay, enter.
+
+00:56:34.000 --> 00:56:39.000
+Ukubona LLC: So, a file is supposed to pop up, then you paste.
+
+00:56:40.000 --> 00:56:42.000
+Gabriel Ampaire: Sure.
+
+00:56:41.000 --> 00:56:47.000
+Ukubona LLC: Yeah, something's supposed to pop up. There it is paste… paste the code from, uh, the session.
+
+00:56:49.000 --> 00:56:55.000
+Ukubona LLC: So that's how to create a file. Any file name. You just, oh, don't only copy code.
+
+00:56:55.000 --> 00:56:58.000
+Ukubona LLC: The code ends at plot, yeah, there.
+
+00:56:59.000 --> 00:57:01.000
+Ukubona LLC: Alright, then paste…
+
+00:57:01.000 --> 00:57:03.000
+Gabriel Ampaire: I appreciate you.
+
+00:57:02.000 --> 00:57:06.000
+Ukubona LLC: No, no, into the file, the Python file up there, there.
+
+00:57:08.000 --> 00:57:13.000
+Ukubona LLC: Paste. Alright, then save, control, I think, S.
+
+00:57:14.000 --> 00:57:20.000
+Ukubona LLC: No, like, uh, on your keyboard, oh, you have saved? So, have you seen the file that has appeared in the left?
+
+00:57:20.000 --> 00:57:22.000
+Gabriel Ampaire: Oh, yep.
+
+00:57:20.000 --> 00:57:26.000
+Ukubona LLC: You see top left? Yeah, so that's how to create a file. It's very easy, you just type code.
+
+00:57:26.000 --> 00:57:34.000
+Ukubona LLC: the name of the file you want to create, the extension, then it pops up and you paste there. That's all. Copy and pasting, that's all there is.
+
+00:57:34.000 --> 00:57:41.000
+Ukubona LLC: If you want to make a folder, yeah, uh, you just say make directory MKDIR.
+
+00:57:42.000 --> 00:57:44.000
+Gabriel Ampaire: What do I know about this?
+
+00:57:43.000 --> 00:57:52.000
+Ukubona LLC: Oh, just close, close, close there, yeah. So, MKDIR mech directory, type that.
+
+00:57:52.000 --> 00:57:54.000
+Gabriel Ampaire: Here.
+
+00:57:53.000 --> 00:57:55.000
+Ukubona LLC: Yeah.
+
+00:57:55.000 --> 00:57:57.000
+Ukubona LLC: MK…
+
+00:57:57.000 --> 00:58:04.000
+Ukubona LLC: DIR… did I get that DIR space? Uh, say asset, A SSET.
+
+00:58:05.000 --> 00:58:07.000
+Ukubona LLC: SET?
+
+00:58:08.000 --> 00:58:10.000
+Ukubona LLC: Enter.
+
+00:58:13.000 --> 00:58:20.000
+Ukubona LLC: So you see how to create a folder? If you check your computer, you'll see you've created a folder on your computer.
+
+00:58:20.000 --> 00:58:22.000
+Gabriel Ampaire: Rita Medus 2.
+
+00:58:21.000 --> 00:58:24.000
+Ukubona LLC: Yeah. On your… is it on your desktop?
+
+00:58:24.000 --> 00:58:29.000
+Ukubona LLC: wherever you're working from. Actually, you can type PWD to see where you're working from.
+
+00:58:24.000 --> 00:58:26.000
+Gabriel Ampaire: I will.
+
+00:58:29.000 --> 00:58:31.000
+Ukubona LLC: Go back to VS Code.
+
+00:58:32.000 --> 00:58:34.000
+Ukubona LLC: Oh, um…
+
+00:58:38.000 --> 00:58:42.000
+Ukubona LLC: If you want to know where you're working from, because you can change where you're working from.
+
+00:58:42.000 --> 00:58:47.000
+Ukubona LLC: Oh, what just happened? PWD? PWD.
+
+00:58:47.000 --> 00:58:56.000
+Ukubona LLC: uh, basically, work directory. Enter. It's going to tell you where you are. So you're working from documents, not desktop.
+
+00:58:56.000 --> 00:59:01.000
+Ukubona LLC: If you want to go to desktop, I do not know Windows confuses me.
+
+00:58:56.000 --> 00:58:58.000
+Gabriel Ampaire: Okay.
+
+00:59:01.000 --> 00:59:04.000
+Ukubona LLC: I don't know how to change the desktop…
+
+00:59:04.000 --> 00:59:07.000
+Gabriel Ampaire: No, it's okay. I've been, um, document.
+
+00:59:05.000 --> 00:59:12.000
+Ukubona LLC: Yeah, but anyway, so now you know how to create a file, but I'll give you the instructions. How to create a file, it's code.
+
+00:59:12.000 --> 00:59:20.000
+Ukubona LLC: then the name of the file you want to create, then you paste whatever you want to paste there. Usually, it's going to be from the AI, unless you've learned how to program.
+
+00:59:21.000 --> 00:59:32.000
+Ukubona LLC: And then if you had created a folder, uh, a subdirectory in the directory you're working in, it's mkit dir. Okay, now let's run this command.
+
+00:59:32.000 --> 00:59:36.000
+Ukubona LLC: Let's run this Python. So we're going to type Python…
+
+00:59:39.000 --> 00:59:43.000
+Ukubona LLC: space S1 dot PY.
+
+00:59:46.000 --> 00:59:47.000
+Ukubona LLC: Enter.
+
+00:59:49.000 --> 00:59:52.000
+Ukubona LLC: Python was not found.
+
+00:59:53.000 --> 00:59:55.000
+Gabriel Ampaire: All right.
+
+00:59:54.000 --> 00:59:57.000
+Ukubona LLC: run… no, there is… it's there, I just need to figure out…
+
+00:59:58.000 --> 01:00:01.000
+Ukubona LLC: Run without arguments in to install.
+
+01:00:02.000 --> 01:00:04.000
+Ukubona LLC: This shirt.
+
+01:00:03.000 --> 01:00:05.000
+Gabriel Ampaire: How do I get that?
+
+01:00:05.000 --> 01:00:09.000
+Ukubona LLC: I'm trying to figure out… I'm reading, trying to figure out, uh…
+
+01:00:09.000 --> 01:00:11.000
+Ukubona LLC: type…
+
+01:00:12.000 --> 01:00:14.000
+Ukubona LLC: Um…
+
+01:00:15.000 --> 01:00:18.000
+Ukubona LLC: Type this, type Python…
+
+01:00:18.000 --> 01:00:27.000
+Ukubona LLC: Oh, you see this command? You see the command in the margin, uh, that I put in the chat? Python 3 space.
+
+01:00:28.000 --> 01:00:32.000
+Ukubona LLC: Copy and paste that command. Have you seen it? In the chat?
+
+01:00:33.000 --> 01:00:35.000
+Gabriel Ampaire: No.
+
+01:00:34.000 --> 01:00:37.000
+Ukubona LLC: Yeah, copy and paste that command.
+
+01:00:37.000 --> 01:00:39.000
+Ukubona LLC: Let me see if it works.
+
+01:00:39.000 --> 01:00:41.000
+Ukubona LLC: Has it worked?
+
+01:00:41.000 --> 01:00:43.000
+Gabriel Ampaire: Yeah, it does. No.
+
+01:00:41.000 --> 01:00:49.000
+Ukubona LLC: Good, it does work, there's no error. Now type source, or let me type the command that you're going to do. Yeah, so there's some instructions I need to add for you.
+
+01:00:49.000 --> 01:00:52.000
+Ukubona LLC: Source VM…
+
+01:00:54.000 --> 01:01:04.000
+Ukubona LLC: been activated. So now, uh, you've created an environment, a virtual one. Now, uh, type that command, now you're going to activate it.
+
+01:01:07.000 --> 01:01:12.000
+Ukubona LLC: So don't worry about memorizing this, I'm just going to add them to your notes. Every session, you'll have them.
+
+01:01:12.000 --> 01:01:16.000
+Ukubona LLC: Enter. What's it saying?
+
+01:01:17.000 --> 01:01:26.000
+Ukubona LLC: The time source is now recognized as the name of the command. It seems this different. Copy and paste this into Gemini. I think they're different commands for Windows.
+
+01:01:27.000 --> 01:01:29.000
+Ukubona LLC: Um…
+
+01:01:34.000 --> 01:01:36.000
+Ukubona LLC: into Gemini.
+
+01:01:37.000 --> 01:01:39.000
+Ukubona LLC: Did you copy and paste everything?
+
+01:01:49.000 --> 01:01:52.000
+Ukubona LLC: It looks like a classic cross-platform.
+
+01:01:52.000 --> 01:01:59.000
+Ukubona LLC: Source command is named to Linux Mac. Yeah, I thought so. Uh, so what's the Windows command?
+
+01:01:53.000 --> 01:01:55.000
+Gabriel Ampaire: Right.
+
+01:01:59.000 --> 01:02:04.000
+Ukubona LLC: Has it given you a Windows command? That's it. This one here, PowerShell.
+
+01:02:04.000 --> 01:02:06.000
+Ukubona LLC: That's weird.
+
+01:02:06.000 --> 01:02:09.000
+Ukubona LLC: Uh, let's, uh, see if it works.
+
+01:02:10.000 --> 01:02:15.000
+Ukubona LLC: Huh. You know what, let's do this command, I think…
+
+01:02:15.000 --> 01:02:17.000
+Gabriel Ampaire: I don't think I covered it.
+
+01:02:15.000 --> 01:02:17.000
+Ukubona LLC: First move…
+
+01:02:17.000 --> 01:02:19.000
+Gabriel Ampaire: Okay, this is…
+
+01:02:21.000 --> 01:02:26.000
+Ukubona LLC: Let's see… oh, we activated, so try and…
+
+01:02:26.000 --> 01:02:28.000
+Ukubona LLC: Let's just a second.
+
+01:02:31.000 --> 01:02:35.000
+Ukubona LLC: Just go back to Gemini, I just want to read through again.
+
+01:02:37.000 --> 01:02:45.000
+Ukubona LLC: And Jamie and I… I have a feeling we need to do this… okay, let me read. Instead of source there, just move up a little… up, up, up.
+
+01:02:46.000 --> 01:02:48.000
+Ukubona LLC: Up… up there, there, there.
+
+01:02:49.000 --> 01:02:52.000
+Ukubona LLC: Oh, let's do this in PowerShell, not VS Code.
+
+01:02:53.000 --> 01:02:55.000
+Ukubona LLC: This does…
+
+01:02:56.000 --> 01:03:01.000
+Ukubona LLC: dot… a box… yeah, that… let's do that in PowerShell.
+
+01:03:03.000 --> 01:03:06.000
+Ukubona LLC: Uh, well, these are new lessons for me.
+
+01:03:07.000 --> 01:03:11.000
+Ukubona LLC: Well, you know, that screen that we've been using? Oh, that's it.
+
+01:03:12.000 --> 01:03:13.000
+Ukubona LLC: Is that the one?
+
+01:03:14.000 --> 01:03:17.000
+Ukubona LLC: I'm not sure it's the one, the other one.
+
+01:03:18.000 --> 01:03:20.000
+Ukubona LLC: Hmm.
+
+01:03:20.000 --> 01:03:22.000
+Gabriel Ampaire: Drone?
+
+01:03:21.000 --> 01:03:26.000
+Ukubona LLC: the Linux, the other shell… you remember the other shell we're using?
+
+01:03:26.000 --> 01:03:30.000
+Ukubona LLC: The… the one where we've been doing most of the installations.
+
+01:03:32.000 --> 01:03:34.000
+Ukubona LLC: This…
+
+01:03:32.000 --> 01:03:34.000
+Gabriel Ampaire: I already closed that one.
+
+01:03:34.000 --> 01:03:37.000
+Ukubona LLC: You said you closed it? It wasn't… was it this?
+
+01:03:36.000 --> 01:03:38.000
+Gabriel Ampaire: Yeah.
+
+01:03:37.000 --> 01:03:39.000
+Ukubona LLC: Oh, this is it!
+
+01:03:40.000 --> 01:03:47.000
+Ukubona LLC: Just give me a second, I have to read the error here. It's not recognized as one of the name of command functions.
+
+01:03:48.000 --> 01:03:52.000
+Ukubona LLC: I have a feeling this is not the screen you're using.
+
+01:03:53.000 --> 01:03:57.000
+Ukubona LLC: Is it the one? The one where we've done all the installations.
+
+01:03:57.000 --> 01:03:59.000
+Gabriel Ampaire: Yeah, it was on this.
+
+01:03:57.000 --> 01:04:00.000
+Ukubona LLC: You remember? This is the one.
+
+01:04:00.000 --> 01:04:04.000
+Gabriel Ampaire: Yeah, uh, okay, maybe I need to open to the administrator.
+
+01:04:05.000 --> 01:04:06.000
+Ukubona LLC: Maybe.
+
+01:04:14.000 --> 01:04:16.000
+Ukubona LLC: Yeah, this looks…
+
+01:04:16.000 --> 01:04:19.000
+Ukubona LLC: Let's see, let's try this here.
+
+01:04:21.000 --> 01:04:23.000
+Ukubona LLC: The term source…
+
+01:04:23.000 --> 01:04:29.000
+Ukubona LLC: It's not recognized. Oh, no, no, let's use the other, because it says this one doesn't work in Windows. The other…
+
+01:04:30.000 --> 01:04:32.000
+Gabriel Ampaire: Well, listen.
+
+01:04:30.000 --> 01:04:34.000
+Ukubona LLC: Gemini, let's go to Gemini, this one, let's try that one.
+
+01:04:39.000 --> 01:04:41.000
+Ukubona LLC: Hmm.
+
+01:04:41.000 --> 01:04:46.000
+Ukubona LLC: Um, let me see if I can make this… can you make it slightly bigger? I'm struggling to read.
+
+01:04:48.000 --> 01:04:50.000
+Ukubona LLC: Okay…
+
+01:04:51.000 --> 01:04:55.000
+Ukubona LLC: It's saying the term, this is now recognized as a name of command function.
+
+01:04:56.000 --> 01:04:58.000
+Ukubona LLC: Check the spelling…
+
+01:05:03.000 --> 01:05:07.000
+Ukubona LLC: Oh, how about we put the term source is not recognized?
+
+01:05:09.000 --> 01:05:11.000
+Ukubona LLC: Hmm.
+
+01:05:14.000 --> 01:05:18.000
+Ukubona LLC: You want to put that in Gemini?
+
+01:05:34.000 --> 01:05:38.000
+Ukubona LLC: Oh boy, environment, we're building Python…
+
+01:05:44.000 --> 01:05:46.000
+Gabriel Ampaire: My phone's about to download.
+
+01:05:44.000 --> 01:05:49.000
+Ukubona LLC: Uh… I think I see… first go down further…
+
+01:05:49.000 --> 01:05:51.000
+Ukubona LLC: Scroll down, scroll down…
+
+01:05:50.000 --> 01:05:52.000
+Gabriel Ampaire: Hold on.
+
+01:05:51.000 --> 01:05:56.000
+Ukubona LLC: Scroll on the screen you're on, scroll down, I don't see option 1, I can't see.
+
+01:05:57.000 --> 01:05:59.000
+Gabriel Ampaire: Hold on, my phone's about to die.
+
+01:06:00.000 --> 01:06:02.000
+Ukubona LLC: Oh, okay.
+
+01:06:02.000 --> 01:06:04.000
+Gabriel Ampaire: Total meeting for…
+
+01:06:04.000 --> 01:06:06.000
+Ukubona LLC: Oh, you're using for… okay, okay.
+
+01:06:10.000 --> 01:06:12.000
+Ukubona LLC: Yeah, we're very close to…
+
+01:06:12.000 --> 01:06:16.000
+Ukubona LLC: We're pretty almost done, I'm just confused about Windows, that's all.
+
+01:06:17.000 --> 01:06:19.000
+Gabriel Ampaire: Okay.
+
+01:06:21.000 --> 01:06:23.000
+Ukubona LLC: You've secured your phone?
+
+01:06:23.000 --> 01:06:25.000
+Gabriel Ampaire: If…
+
+01:06:24.000 --> 01:06:31.000
+Ukubona LLC: Okay, it's… if you did all the other work to install build and Ubuntu.
+
+01:06:32.000 --> 01:06:34.000
+Ukubona LLC: You should go back to the terminal.
+
+01:06:35.000 --> 01:06:39.000
+Ukubona LLC: Type WS in your partial window and hit enter.
+
+01:06:41.000 --> 01:06:45.000
+Ukubona LLC: Okay, type WS1. WSL.
+
+01:06:46.000 --> 01:06:51.000
+Ukubona LLC: It seems you may have to be doing this at the beginning of every session. Uh-huh, enter.
+
+01:06:52.000 --> 01:06:54.000
+Gabriel Ampaire: Nothing happened.
+
+01:06:54.000 --> 01:06:57.000
+Ukubona LLC: No, there's no error yet, let's wait.
+
+01:06:57.000 --> 01:07:01.000
+Ukubona LLC: Because… yeah, let's wait, I think…
+
+01:07:03.000 --> 01:07:08.000
+Ukubona LLC: Oh, so you see… so let me explain to you what's happening.
+
+01:07:08.000 --> 01:07:19.000
+Ukubona LLC: Windows, you know, Bill Gates, when he designed his software, just did stuff the opposite way. You see your back… you see those back arrows? Like, C, back arrow, Windows, back arrow systems?
+
+01:07:19.000 --> 01:07:24.000
+Ukubona LLC: Yeah? When you see that, that means you're in Windows, yeah?
+
+01:07:24.000 --> 01:07:26.000
+Gabriel Ampaire: What?
+
+01:07:24.000 --> 01:07:33.000
+Ukubona LLC: Uh, but all this AI stuff, all programming has to be in Linux, the forward slashes. Like, you see this now?
+
+01:07:33.000 --> 01:07:37.000
+Ukubona LLC: Yeah? So now we're in the right place.
+
+01:07:35.000 --> 01:07:39.000
+Gabriel Ampaire: Oh, yeah, I've seen these back errors.
+
+01:07:37.000 --> 01:07:46.000
+Ukubona LLC: Yeah, so Windows has backslashes, uh, but Linux and Mac, because Mac is Linux, it's forward slashes, so that's why a Mac person doesn't need to do these things.
+
+01:07:46.000 --> 01:07:53.000
+Ukubona LLC: Anyway, so now, it means every time you're going to use a PowerShell, before you use it, you have to get out of Windows, and you'll be doing.
+
+01:07:53.000 --> 01:07:59.000
+Ukubona LLC: Windows Linux, I think… I don't know if that's what WSL means, but it's WSL.
+
+01:07:59.000 --> 01:08:04.000
+Ukubona LLC: You have to do that first to get the forward slashes, then you're buck into the world of, uh…
+
+01:08:04.000 --> 01:08:12.000
+Ukubona LLC: of programming, okay? So let's, let's try this again, uh, let's copy and paste, I think it's not gonna work. No, no, no, not those, not those.
+
+01:08:12.000 --> 01:08:18.000
+Ukubona LLC: Uh, let's do source… let's try source… you see the source thing up there?
+
+01:08:19.000 --> 01:08:23.000
+Ukubona LLC: The one, the one before. The forward slash.
+
+01:08:25.000 --> 01:08:28.000
+Ukubona LLC: The source environment bin activated.
+
+01:08:29.000 --> 01:08:32.000
+Ukubona LLC: Have you seen it? I'm just up there.
+
+01:08:33.000 --> 01:08:35.000
+Gabriel Ampaire: Yeah.
+
+01:08:34.000 --> 01:08:37.000
+Ukubona LLC: That one there. Let's try that.
+
+01:08:37.000 --> 01:08:40.000
+Ukubona LLC: Because these are forward slashes.
+
+01:08:42.000 --> 01:08:44.000
+Ukubona LLC: Alright.
+
+01:08:43.000 --> 01:08:46.000
+Gabriel Ampaire: Oh, no, it's happening, I can't copy and paste.
+
+01:08:45.000 --> 01:08:48.000
+Ukubona LLC: Just type, just type.
+
+01:08:48.000 --> 01:08:49.000
+Gabriel Ampaire: Boom.
+
+01:08:48.000 --> 01:08:50.000
+Ukubona LLC: Type source.
+
+01:08:54.000 --> 01:09:00.000
+Ukubona LLC: Oh, yeah. I hope it's sort of capital S. There are no capitas, uh, when you're programming.
+
+01:09:06.000 --> 01:09:08.000
+Ukubona LLC: space…
+
+01:09:08.000 --> 01:09:10.000
+Ukubona LLC: Mm-hmm.
+
+01:09:17.000 --> 01:09:19.000
+Ukubona LLC: It better work.
+
+01:09:21.000 --> 01:09:24.000
+Ukubona LLC: Good heavens, no such file.
+
+01:09:24.000 --> 01:09:26.000
+Ukubona LLC: We're going to…
+
+01:09:27.000 --> 01:09:32.000
+Ukubona LLC: copy and paste this command again. We did it in VS Code, but get it from the chat.
+
+01:09:32.000 --> 01:09:35.000
+Ukubona LLC: It says with Python 3.
+
+01:09:36.000 --> 01:09:38.000
+Ukubona LLC: In the chat.
+
+01:09:40.000 --> 01:09:43.000
+Ukubona LLC: Uh, no, no, no, in the… in Zoom chat.
+
+01:09:43.000 --> 01:09:45.000
+Gabriel Ampaire: Okay.
+
+01:09:45.000 --> 01:09:47.000
+Ukubona LLC: It starts with Python 3.
+
+01:09:51.000 --> 01:09:55.000
+Ukubona LLC: python 3 space dash.
+
+01:09:56.000 --> 01:09:58.000
+Ukubona LLC: Have you seen it?
+
+01:10:02.000 --> 01:10:04.000
+Ukubona LLC: Item 3…
+
+01:10:04.000 --> 01:10:06.000
+Ukubona LLC: space…
+
+01:10:06.000 --> 01:10:12.000
+Ukubona LLC: dash M space dot… yeah, that's fine. Uh…
+
+01:10:16.000 --> 01:10:19.000
+Ukubona LLC: Okay. Enter.
+
+01:10:21.000 --> 01:10:23.000
+Ukubona LLC: I think it's working.
+
+01:10:34.000 --> 01:10:45.000
+Ukubona LLC: Yeah, it must be working, um, just installing. So I… we did it in VS Code, and I thought we could continue from there. I don't know why it did not work after that, but let's…
+
+01:10:45.000 --> 01:10:48.000
+Ukubona LLC: Maybe we will see, we'll see how this goes.
+
+01:10:49.000 --> 01:10:55.000
+Ukubona LLC: But we're pretty much done. It's just getting Python in the right place.
+
+01:10:56.000 --> 01:10:58.000
+Ukubona LLC: Um…
+
+01:10:58.000 --> 01:11:03.000
+Ukubona LLC: But you have Python on your machine, that one, I'm 100% sure.
+
+01:11:10.000 --> 01:11:16.000
+Ukubona LLC: So, it's not this stressful, it will be much easier once I've figured out.
+
+01:11:16.000 --> 01:11:20.000
+Ukubona LLC: The exact steps for you for Windows.
+
+01:11:20.000 --> 01:11:22.000
+Ukubona LLC: Uh, much easier.
+
+01:11:22.000 --> 01:11:29.000
+Ukubona LLC: You know, you don't need to install anything after this, uh, so that's a good part.
+
+01:11:29.000 --> 01:11:35.000
+Ukubona LLC: So, all we're doing, so every time you use your computer, you will be activating.
+
+01:11:35.000 --> 01:11:39.000
+Ukubona LLC: Python. Uh, then…
+
+01:11:37.000 --> 01:11:41.000
+Gabriel Ampaire: I'll have to… I'll have to redo this all the time.
+
+01:11:41.000 --> 01:11:44.000
+Ukubona LLC: Justice Command, the one of source.
+
+01:11:45.000 --> 01:11:51.000
+Ukubona LLC: A, the Python 3, sorry, what is the Python 3 command? You will… yeah, the one, the one we're waiting on?
+
+01:11:52.000 --> 01:11:56.000
+Ukubona LLC: You'll have to do that. You're finished. Now, now do source.
+
+01:11:52.000 --> 01:11:54.000
+Gabriel Ampaire: The WSO command.
+
+01:11:56.000 --> 01:12:03.000
+Ukubona LLC: So every time you'll be using your session, you do WSL, then you'll do Python 3, then now let's do source.
+
+01:12:03.000 --> 01:12:06.000
+Ukubona LLC: It's just because…
+
+01:12:07.000 --> 01:12:10.000
+Ukubona LLC: Because you're creating a virtual environment.
+
+01:12:10.000 --> 01:12:15.000
+Ukubona LLC: Uh, every time, yeah, because of the web Python runs.
+
+01:12:24.000 --> 01:12:26.000
+Ukubona LLC: Okay.
+
+01:12:28.000 --> 01:12:35.000
+Ukubona LLC: All right, no drama. So now you're active Python. Now, my only confusion is that let's go to VS Code, because…
+
+01:12:28.000 --> 01:12:30.000
+Gabriel Ampaire: Here.
+
+01:12:35.000 --> 01:12:44.000
+Ukubona LLC: Just the first way, type PWD. No, no, first go back, and to make sure we're in the same place as.
+
+01:12:44.000 --> 01:12:46.000
+Ukubona LLC: as, uh, PWD.
+
+01:12:47.000 --> 01:12:53.000
+Ukubona LLC: Okay, now copy and paste that file path. This is a file path. We may need it in VS Code.
+
+01:12:53.000 --> 01:12:55.000
+Ukubona LLC: To work from the same place.
+
+01:12:53.000 --> 01:12:55.000
+Gabriel Ampaire: Enjoy this one.
+
+01:12:55.000 --> 01:12:58.000
+Ukubona LLC: The forward slash MNT, that went.
+
+01:12:59.000 --> 01:13:02.000
+Ukubona LLC: You've copied it, let's go to VS Code.
+
+01:13:02.000 --> 01:13:04.000
+Gabriel Ampaire: Okay.
+
+01:13:03.000 --> 01:13:13.000
+Ukubona LLC: Because I think that's where I think I got confused. Uh, now you can… here you can type clear, CLERAR, just so you have a clean workplace.
+
+01:13:14.000 --> 01:13:16.000
+Ukubona LLC: Clear.
+
+01:13:20.000 --> 01:13:25.000
+Ukubona LLC: Enter. All right. Now, I don't know if this is gonna work, but…
+
+01:13:25.000 --> 01:13:33.000
+Ukubona LLC: Okay, there is confusion here. So you see a back… you have backslashes, like, in Windows, right?
+
+01:13:34.000 --> 01:13:38.000
+Ukubona LLC: I have a feeling there's a step we're missing. Oh, I'll try that.
+
+01:13:38.000 --> 01:13:41.000
+Ukubona LLC: Oh, ah.
+
+01:13:41.000 --> 01:13:46.000
+Ukubona LLC: That's it! So, we need to be working from here. Okay, try change directory.
+
+01:13:48.000 --> 01:13:54.000
+Ukubona LLC: CD, sorry, CD is change directory. Space… no, no, no.
+
+01:13:48.000 --> 01:13:50.000
+Gabriel Ampaire: What?
+
+01:13:55.000 --> 01:14:00.000
+Ukubona LLC: CD space, then paste that path you came with. Paste.
+
+01:14:01.000 --> 01:14:03.000
+Ukubona LLC: Enter.
+
+01:14:03.000 --> 01:14:05.000
+Ukubona LLC: Has it worked?
+
+01:14:05.000 --> 01:14:07.000
+Gabriel Ampaire: Yeah, it does.
+
+01:14:06.000 --> 01:14:16.000
+Ukubona LLC: I think it was warped. Okay, now I believe we are in the same environment. If you're confused about what you've done, don't worry, I'm going to clarify the steps.
+
+01:14:16.000 --> 01:14:22.000
+Ukubona LLC: I'll make clean steps that you don't need to go through this pain. Now, let's type Python.
+
+01:14:23.000 --> 01:14:28.000
+Ukubona LLC: space s1.py. We're running that Python program from your session.
+
+01:14:28.000 --> 01:14:30.000
+Ukubona LLC: S1 dot pie.
+
+01:14:31.000 --> 01:14:32.000
+Ukubona LLC: Enter.
+
+01:14:35.000 --> 01:14:37.000
+Ukubona LLC: Python I found.
+
+01:14:40.000 --> 01:14:42.000
+Gabriel Ampaire: Is this being…
+
+01:14:40.000 --> 01:14:46.000
+Ukubona LLC: Did you mean… try Python 3, try Python 3 instead of Python. Python 3S1 pi.
+
+01:14:48.000 --> 01:14:52.000
+Gabriel Ampaire: Is this being recorded? Like, are there gonna be notes from this meeting?
+
+01:14:53.000 --> 01:14:56.000
+Ukubona LLC: Oh, actually, it is being recorded, yes.
+
+01:14:56.000 --> 01:14:58.000
+Gabriel Ampaire: Cool.
+
+01:14:56.000 --> 01:15:02.000
+Ukubona LLC: I will share. Don't enter that, just Python 3 and the name of the file.
+
+01:15:04.000 --> 01:15:09.000
+Ukubona LLC: Oh, it's not going to… you have to backspace, this is old school. Yeah, space…
+
+01:15:11.000 --> 01:15:13.000
+Ukubona LLC: S1 dot pi.
+
+01:15:16.000 --> 01:15:18.000
+Ukubona LLC: Enter.
+
+01:15:20.000 --> 01:15:23.000
+Ukubona LLC: Python can open blah blah blah…
+
+01:15:23.000 --> 01:15:29.000
+Ukubona LLC: No such file or direct copy. Copy and paste all this into…
+
+01:15:30.000 --> 01:15:33.000
+Ukubona LLC: into Gemini.
+
+01:15:33.000 --> 01:15:36.000
+Ukubona LLC: I don't know if we need to create that thing again.
+
+01:15:36.000 --> 01:15:39.000
+Ukubona LLC: Uh, the virtual environment here.
+
+01:15:43.000 --> 01:15:48.000
+Ukubona LLC: We may have to do those steps again, the very brief steps. Let's see…
+
+01:15:49.000 --> 01:15:51.000
+Ukubona LLC: Successfully…
+
+01:15:51.000 --> 01:15:54.000
+Ukubona LLC: We'll run into new hurdles…
+
+01:15:56.000 --> 01:16:04.000
+Ukubona LLC: Avoid walking up avoid walking this, this is critical windows. Oh, oh, okay, fine.
+
+01:16:05.000 --> 01:16:07.000
+Ukubona LLC: Go to project folder…
+
+01:16:08.000 --> 01:16:11.000
+Ukubona LLC: Uh, okay, go down, scroll down…
+
+01:16:12.000 --> 01:16:13.000
+Ukubona LLC: scroll.
+
+01:16:14.000 --> 01:16:16.000
+Ukubona LLC: Yeah.
+
+01:16:16.000 --> 01:16:20.000
+Ukubona LLC: You're originally in a new folder, let's go back where your script…
+
+01:16:20.000 --> 01:16:25.000
+Ukubona LLC: leaves… Okay, copy and paste that thing.
+
+01:16:27.000 --> 01:16:29.000
+Ukubona LLC: Yeah.
+
+01:16:32.000 --> 01:16:35.000
+Ukubona LLC: Uh-huh. Okay.
+
+01:16:35.000 --> 01:16:41.000
+Ukubona LLC: Let's… I think we need to create that environment again.
+
+01:16:41.000 --> 01:16:48.000
+Ukubona LLC: because we created the environment in the wrong place. So we're going to do that Python 3-m.
+
+01:16:49.000 --> 01:16:51.000
+Ukubona LLC: Command, you have access to it?
+
+01:16:51.000 --> 01:16:55.000
+Ukubona LLC: Python 3 space dash.
+
+01:16:57.000 --> 01:17:02.000
+Ukubona LLC: space, V… virtual environment VM…
+
+01:17:06.000 --> 01:17:10.000
+Ukubona LLC: space dutch venph.
+
+01:17:13.000 --> 01:17:16.000
+Gabriel Ampaire: Uh, and this would be, uh, slashes.
+
+01:17:17.000 --> 01:17:19.000
+Ukubona LLC: No, they're not splashes here.
+
+01:17:21.000 --> 01:17:28.000
+Ukubona LLC: So we're redoing stuff because every time you run Python, you're going to be creating virtual environments. Why?
+
+01:17:28.000 --> 01:17:31.000
+Ukubona LLC: Python is so big.
+
+01:17:31.000 --> 01:17:42.000
+Ukubona LLC: it would crush your computer if you had to run all of it at the same time. So, every session, you just select a small bit of Python to use. So, you create a virtual environment.
+
+01:17:42.000 --> 01:17:48.000
+Ukubona LLC: Then you install the stuff you need for that session. That's why every time you're creating a virtual environment. Does that make sense?
+
+01:17:49.000 --> 01:17:54.000
+Ukubona LLC: Because you're using just a small bit of Python, because it's too big. You slow down your computer completely.
+
+01:17:49.000 --> 01:17:51.000
+Gabriel Ampaire: Yeah, ma'am.
+
+01:17:54.000 --> 01:18:04.000
+Ukubona LLC: So, this is the style you'll be doing it. It would make sense. It didn't make sense for me at the beginning. Why should I do this all the time? It's gonna be easy, trust me, but uh…
+
+01:18:05.000 --> 01:18:15.000
+Ukubona LLC: You have to do it every session, just this command, Python 3, create the virtual environment, then activate it, then everything is normal until your next session.
+
+01:18:15.000 --> 01:18:18.000
+Ukubona LLC: Yeah? No more installation.
+
+01:18:16.000 --> 01:18:22.000
+Gabriel Ampaire: So, I have to do the VSL source, and then this.
+
+01:18:19.000 --> 01:18:21.000
+Ukubona LLC: Yeah.
+
+01:18:22.000 --> 01:18:28.000
+Ukubona LLC: Yes. No, you do the source after. Source is activating, so now you're first creating the virtual environment.
+
+01:18:28.000 --> 01:18:30.000
+Ukubona LLC: Then you activate it.
+
+01:18:31.000 --> 01:18:36.000
+Ukubona LLC: So, this is the first step. You do WSL, then you do this command.
+
+01:18:31.000 --> 01:18:33.000
+Gabriel Ampaire: Okay.
+
+01:18:36.000 --> 01:18:41.000
+Ukubona LLC: Then you do, uh, source, then you can do the copying and pasting and all.
+
+01:18:42.000 --> 01:18:45.000
+Ukubona LLC: Let's hope this is the last drama.
+
+01:18:45.000 --> 01:18:54.000
+Ukubona LLC: I'm going to organize the notes. I'll also share the video. I think it would take about 10-15 minutes to create the video, or the notes, I think they're notes.
+
+01:18:54.000 --> 01:19:02.000
+Ukubona LLC: I will share them, I'll let you know as soon as they're ready, I'll WhatsApp you, and give you a link to the notes from this session.
+
+01:19:02.000 --> 01:19:08.000
+Ukubona LLC: Uh, then I will update your sessions so that you have all the instructions you need, yeah?
+
+01:19:09.000 --> 01:19:11.000
+Gabriel Ampaire: Yeah.
+
+01:19:10.000 --> 01:19:15.000
+Ukubona LLC: The nice thing is that if this works now, you'll be able to do all the sessions.
+
+01:19:15.000 --> 01:19:28.000
+Ukubona LLC: when you get stuck, uh, you'll be… you just let me know, then I'll… I can give you more than… because you just have 8 sessions. We can have as many sessions as you want to make you more advanced. Successful.
+
+01:19:15.000 --> 01:19:17.000
+Gabriel Ampaire: Yeah.
+
+01:19:28.000 --> 01:19:31.000
+Ukubona LLC: Now get the source, the source command.
+
+01:19:28.000 --> 01:19:30.000
+Gabriel Ampaire: Yep.
+
+01:19:33.000 --> 01:19:36.000
+Ukubona LLC: So, or squeeze that one.
+
+01:19:36.000 --> 01:19:38.000
+Ukubona LLC: It is, um…
+
+01:19:40.000 --> 01:19:42.000
+Gabriel Ampaire: It is in jet, you send it injured.
+
+01:19:41.000 --> 01:19:45.000
+Ukubona LLC: We can just type it, we can just type it. Source, space…
+
+01:19:48.000 --> 01:19:51.000
+Gabriel Ampaire: source space dot VEN.
+
+01:19:50.000 --> 01:19:56.000
+Ukubona LLC: VM, yes, forward slash V forward slash activate. That's it, yeah.
+
+01:19:52.000 --> 01:19:54.000
+Gabriel Ampaire: Okay.
+
+01:19:56.000 --> 01:20:02.000
+Ukubona LLC: Okay, now we're ready. Now it's going to work. So now you're going to do, uh, the Python…
+
+01:19:57.000 --> 01:19:59.000
+Gabriel Ampaire: Good.
+
+01:20:02.000 --> 01:20:05.000
+Ukubona LLC: Python space S1 pi.
+
+01:20:05.000 --> 01:20:10.000
+Ukubona LLC: We were now running the program for your session. Python, just state Python.
+
+01:20:12.000 --> 01:20:17.000
+Ukubona LLC: You're just saying, I want to run this Python file, space s1pi.
+
+01:20:18.000 --> 01:20:21.000
+Ukubona LLC: And that's it! Enter.
+
+01:20:22.000 --> 01:20:28.000
+Ukubona LLC: You must be kidding me. Ah, we need to install, uh, Numpy, so do pip install?
+
+01:20:28.000 --> 01:20:32.000
+Ukubona LLC: This one you should just get used to, you'll get used to it. Pip install…
+
+01:20:33.000 --> 01:20:40.000
+Ukubona LLC: I, uh-huh, install Numpy. I think you need another one. You think you need space matlab?
+
+01:20:40.000 --> 01:20:43.000
+Ukubona LLC: Find My Lab up there at the top.
+
+01:20:44.000 --> 01:20:51.000
+Ukubona LLC: mudplotlib. I think it's mudplotlib, sorry. Check the top of your file, your S1Pi, to see the correct spelling.
+
+01:20:53.000 --> 01:20:57.000
+Ukubona LLC: I don't think that's the correct spelling. The file, you see your S1 Pi?
+
+01:20:57.000 --> 01:21:03.000
+Ukubona LLC: No, S1pi, the file, the Python file, S1.py, at the very top.
+
+01:21:03.000 --> 01:21:12.000
+Ukubona LLC: Yeah, it's already open, but scroll, scroll, scroll it, scroll… that matplotlib, that matplotlib, copy that, yeah.
+
+01:21:12.000 --> 01:21:18.000
+Ukubona LLC: Backspace on the… on this thing, because backspace it all the way… you have to backspace.
+
+01:21:18.000 --> 01:21:23.000
+Ukubona LLC: Backspace, backspace, uh-huh, paste it. Enter.
+
+01:21:26.000 --> 01:21:35.000
+Ukubona LLC: All right, so this is something you'll get used to. The only price you need to pay for using Python is installing programs every time you're going to run something.
+
+01:21:35.000 --> 01:21:37.000
+Ukubona LLC: Uh, because…
+
+01:21:35.000 --> 01:21:38.000
+Gabriel Ampaire: Does this take up space on up here?
+
+01:21:38.000 --> 01:21:40.000
+Ukubona LLC: Sorry?
+
+01:21:40.000 --> 01:21:42.000
+Gabriel Ampaire: Does this take up space on a PC?
+
+01:21:42.000 --> 01:21:48.000
+Ukubona LLC: Oh, it's in virtual environment, that's why, that's a powerful thing. So, when the session ends, it vanishes.
+
+01:21:48.000 --> 01:21:50.000
+Gabriel Ampaire: Okay.
+
+01:21:48.000 --> 01:21:50.000
+Ukubona LLC: Does that make sense?
+
+01:21:50.000 --> 01:21:52.000
+Gabriel Ampaire: So it's like grown.
+
+01:21:51.000 --> 01:21:53.000
+Ukubona LLC: It is wrong.
+
+01:21:53.000 --> 01:22:02.000
+Ukubona LLC: Yeah, because Python is so big, that's… so that's the only price you pay for having a powerful thing like Python, is that you have to create a virtual environment.
+
+01:22:02.000 --> 01:22:11.000
+Ukubona LLC: In that virtual environment, you have to install, import all this stuff, but it's RAM, so it will all be gone, and your computer will be back where it was before.
+
+01:22:14.000 --> 01:22:17.000
+Ukubona LLC: Yeah, this is going to work 100%.
+
+01:22:17.000 --> 01:22:21.000
+Ukubona LLC: Yeah, it's been a painful session, but uh…
+
+01:22:22.000 --> 01:22:26.000
+Ukubona LLC: I just need to improve the Windows onboarding.
+
+01:22:26.000 --> 01:22:32.000
+Ukubona LLC: It's my first time to see the Windows onboarding, and it needs a lot of work on my side.
+
+01:22:32.000 --> 01:22:34.000
+Ukubona LLC: So…
+
+01:22:42.000 --> 01:22:48.000
+Ukubona LLC: So this is some of the most common imports you'll be doing. NumPy for numbers, and not…
+
+01:22:48.000 --> 01:22:51.000
+Ukubona LLC: Plotlet for diagrams, like, figures…
+
+01:22:52.000 --> 01:22:54.000
+Ukubona LLC: And stuff, um…
+
+01:23:26.000 --> 01:23:30.000
+Ukubona LLC: Right, so this… only once per session, so…
+
+01:23:31.000 --> 01:23:38.000
+Ukubona LLC: As long as this session is on… and a session, if you don't… even if you close your computer, but you don't shut it down.
+
+01:23:38.000 --> 01:23:41.000
+Ukubona LLC: That session is still going on, so…
+
+01:23:43.000 --> 01:23:45.000
+Gabriel Ampaire: Okay.
+
+01:23:44.000 --> 01:23:46.000
+Ukubona LLC: Alright, it's almost done.
+
+01:23:45.000 --> 01:23:47.000
+Gabriel Ampaire: So, what do I do now?
+
+01:23:46.000 --> 01:23:51.000
+Ukubona LLC: I don't think it's done, because you have to have the prompt to appear again. Uh, it's not done.
+
+01:23:51.000 --> 01:23:53.000
+Ukubona LLC: Almost, but it's not done.
+
+01:24:15.000 --> 01:24:21.000
+Ukubona LLC: Usually, it's faster than this, but that's okay. It's… I know it's working okay.
+
+01:24:16.000 --> 01:24:18.000
+Gabriel Ampaire: Yes.
+
+01:24:22.000 --> 01:24:25.000
+Ukubona LLC: This step usually doesn't fail.
+
+01:24:37.000 --> 01:24:39.000
+Ukubona LLC: Hmm.
+
+01:24:49.000 --> 01:24:51.000
+Ukubona LLC: Hmm.
+
+01:24:54.000 --> 01:24:58.000
+Ukubona LLC: six pillow packages, numpy.
+
+01:24:59.000 --> 01:25:01.000
+Ukubona LLC: Kiwi Solve…
+
+01:25:03.000 --> 01:25:05.000
+Ukubona LLC: Yeah.
+
+01:25:05.000 --> 01:25:09.000
+Ukubona LLC: Yeah, it's just taking longer than usual, but others, it's okay.
+
+01:25:26.000 --> 01:25:28.000
+Gabriel Ampaire: Okay.
+
+01:25:26.000 --> 01:25:28.000
+Ukubona LLC: Hmm.
+
+01:25:31.000 --> 01:25:33.000
+Ukubona LLC: Just double check that the internet is on.
+
+01:25:34.000 --> 01:25:37.000
+Ukubona LLC: Is that… is there a way to check?
+
+01:25:38.000 --> 01:25:40.000
+Gabriel Ampaire: Yeah, my entrance is working.
+
+01:25:40.000 --> 01:25:44.000
+Ukubona LLC: Okay. Oh, of course, yes, I wouldn't be hearing from you if it wasn't.
+
+01:25:45.000 --> 01:25:47.000
+Ukubona LLC: Um…
+
+01:25:48.000 --> 01:25:51.000
+Ukubona LLC: Yeah, this is a bit longer than usual.
+
+01:25:51.000 --> 01:25:53.000
+Ukubona LLC: These packages are not that big.
+
+01:26:00.000 --> 01:26:04.000
+Ukubona LLC: Try entering and see if anything happens. Enter.
+
+01:26:05.000 --> 01:26:08.000
+Ukubona LLC: Is there any effect?
+
+01:26:08.000 --> 01:26:10.000
+Ukubona LLC: Okay, it's still running then.
+
+01:26:16.000 --> 01:26:17.000
+Ukubona LLC: Hmm…
+
+01:26:19.000 --> 01:26:22.000
+Ukubona LLC: Installing, downloading…
+
+01:26:25.000 --> 01:26:27.000
+Ukubona LLC: Yeah.
+
+01:26:33.000 --> 01:26:36.000
+Ukubona LLC: Yeah, I wonder…
+
+01:26:44.000 --> 01:26:50.000
+Ukubona LLC: This is strange. There's nothing wrong on your part, there's no error.
+
+01:26:51.000 --> 01:26:54.000
+Ukubona LLC: And, uh, it's just…
+
+01:26:55.000 --> 01:26:57.000
+Ukubona LLC: Strangely.
+
+01:26:57.000 --> 01:27:03.000
+Ukubona LLC: taking longer than usual. It rarely takes this long for this… uh-oh.
+
+01:27:04.000 --> 01:27:06.000
+Ukubona LLC: I think I lost you.
+
+01:28:36.000 --> 01:28:39.000
+Ukubona LLC: Oh, great, you're back, yes.
+
+01:28:39.000 --> 01:28:44.000
+Gabriel Ampaire: I think, for whatever reason, I lost connection, and my Wi-Fi is fine.
+
+01:28:44.000 --> 01:28:48.000
+Ukubona LLC: That's funny, and that explains why it was taking long. I don't know…
+
+01:28:49.000 --> 01:28:51.000
+Ukubona LLC: Why, but uh…
+
+01:28:49.000 --> 01:28:51.000
+Gabriel Ampaire: No.
+
+01:28:51.000 --> 01:28:56.000
+Ukubona LLC: It's done. Oh, great! So now let's run the program again. That is, uh…
+
+01:28:56.000 --> 01:28:59.000
+Ukubona LLC: Uh, Python S1.py.
+
+01:29:11.000 --> 01:29:16.000
+Ukubona LLC: Alright, that seems to be working. So this is it! If this works out.
+
+01:29:17.000 --> 01:29:21.000
+Ukubona LLC: Uh, let's think, figure…
+
+01:29:21.000 --> 01:29:27.000
+Ukubona LLC: is non-interactive, and that can be shown. That's fine. It means you can find it somewhere.
+
+01:29:28.000 --> 01:29:36.000
+Ukubona LLC: Where is it? I mean, there must be a figure somewhere on your screen elsewhere. Can you look around? Do you have more than one screen?
+
+01:29:38.000 --> 01:29:40.000
+Gabriel Ampaire: Um…
+
+01:29:41.000 --> 01:29:46.000
+Ukubona LLC: So, what is… what it's saying… so, let me explain what's happening, yeah?
+
+01:29:46.000 --> 01:29:49.000
+Ukubona LLC: So, there's not been any error, okay?
+
+01:29:49.000 --> 01:29:51.000
+Gabriel Ampaire: closes.
+
+01:29:50.000 --> 01:29:53.000
+Ukubona LLC: You have a figure somewhere else?
+
+01:29:59.000 --> 01:30:05.000
+Ukubona LLC: What I can tell you is that it has worked successfully. What I'm going to do… yeah? Can you hear me?
+
+01:30:09.000 --> 01:30:11.000
+Ukubona LLC: Gabriel, can you hear me?
+
+01:30:13.000 --> 01:30:15.000
+Ukubona LLC: Hmm.
+
+01:30:16.000 --> 01:30:18.000
+Ukubona LLC: I think I've lost you again.
+
+01:30:19.000 --> 01:30:21.000
+Ukubona LLC: Oh, you're there. Are you there?
+
+01:30:23.000 --> 01:30:25.000
+Ukubona LLC: Huh. Can you hear me?
+
+01:30:26.000 --> 01:30:28.000
+Gabriel Ampaire: No.
+
+01:30:28.000 --> 01:30:30.000
+Ukubona LLC: Okay, sure.
+
+01:30:32.000 --> 01:30:38.000
+Ukubona LLC: Yeah, so I can hear you speaking, but I can't understand, because the connection is not working. I'm going to send you a sub.
+
+01:30:39.000 --> 01:30:41.000
+Ukubona LLC: I can hear you speak.
+
+01:30:43.000 --> 01:30:45.000
+Ukubona LLC: I can hear you speak.
+
+01:30:46.000 --> 01:30:48.000
+Ukubona LLC: But can't understand.
+
+01:30:53.000 --> 01:30:58.000
+Gabriel Ampaire: Hello? Yeah, can you hear me? Can you hear me?
+
+01:30:55.000 --> 01:30:58.000
+Ukubona LLC: Are you… are you not queer? Can you… can you hear me?
+
+01:31:02.000 --> 01:31:04.000
+Gabriel Ampaire: I can hear you.
+
+01:31:03.000 --> 01:31:10.000
+Ukubona LLC: Oh, good. So everything is working perfectly. The only issue I'm seeing is, uh…
+
+01:31:11.000 --> 01:31:19.000
+Ukubona LLC: Is, uh, that it's not creating a picture for you, because you're supposed to see a simulation picture, right?
+
+01:31:20.000 --> 01:31:24.000
+Ukubona LLC: what I'm going to do… I'm going to update your notes.
+
+01:31:24.000 --> 01:31:26.000
+Gabriel Ampaire: Well…
+
+01:31:25.000 --> 01:31:28.000
+Ukubona LLC: I will update your notes so that…
+
+01:31:28.000 --> 01:31:33.000
+Ukubona LLC: the code… you run the code again after I update it, so that it creates a picture.
+
+01:31:34.000 --> 01:31:37.000
+Ukubona LLC: Uh, that you open separately, okay?
+
+01:31:40.000 --> 01:31:42.000
+Gabriel Ampaire: Oh, creates a picture, and that's why.
+
+01:31:40.000 --> 01:31:42.000
+Ukubona LLC: Uh, I mean…
+
+01:31:42.000 --> 01:31:47.000
+Ukubona LLC: Let me type… let me type in the chat, because I think there's a delay.
+
+01:31:49.000 --> 01:31:53.000
+Gabriel Ampaire: I… no, I can't hear you, I just don't understand what you're saying.
+
+01:31:52.000 --> 01:31:58.000
+Ukubona LLC: Oh, oh, okay. Okay, yes, so everything's 100%, yeah? Uh-oh.
+
+01:31:59.000 --> 01:32:01.000
+Ukubona LLC: Why do I feel like I've lost you?
+
+01:32:01.000 --> 01:32:03.000
+Gabriel Ampaire: Hello?
+
+01:32:01.000 --> 01:32:06.000
+Ukubona LLC: Are you there? Yeah. So, everything is 100%.
+
+01:32:04.000 --> 01:32:06.000
+Gabriel Ampaire: Yeah, I'm here.
+
+01:32:06.000 --> 01:32:09.000
+Ukubona LLC: Yeah? Everything is working.
+
+01:32:09.000 --> 01:32:14.000
+Ukubona LLC: Yeah? I just need to edit something on a Mac, it would have produced an image.
+
+01:32:12.000 --> 01:32:14.000
+Gabriel Ampaire: Okay.
+
+01:32:14.000 --> 01:32:21.000
+Ukubona LLC: On your side, it's saying image not shown, so I'm going to modify the code.
+
+01:32:22.000 --> 01:32:24.000
+Ukubona LLC: Yeah?
+
+01:32:24.000 --> 01:32:26.000
+Gabriel Ampaire: The code for this.
+
+01:32:26.000 --> 01:32:32.000
+Ukubona LLC: Yes. I'm going to modify that code, uh, modify the code.
+
+01:32:32.000 --> 01:32:34.000
+Ukubona LLC: So that, you get…
+
+01:32:35.000 --> 01:32:40.000
+Ukubona LLC: Uh, uh, the output of your simulation as a picture.
+
+01:32:41.000 --> 01:32:43.000
+Ukubona LLC: Yeah?
+
+01:32:43.000 --> 01:32:49.000
+Ukubona LLC: I'm going to… I'm going to modify the code, and so after plot show, it will give a picture.
+
+01:32:49.000 --> 01:32:56.000
+Ukubona LLC: It will appear on the left side of your VS Code, where S1.py is, and then you'll click there to open it.
+
+01:32:57.000 --> 01:32:58.000
+Ukubona LLC: Yeah?
+
+01:32:59.000 --> 01:33:01.000
+Gabriel Ampaire: Hmm.
+
+01:33:00.000 --> 01:33:05.000
+Ukubona LLC: Yeah, so I'm not going to do that now. I'll do that later in the afternoon.
+
+01:33:04.000 --> 01:33:06.000
+Gabriel Ampaire: It will create a separate…
+
+01:33:07.000 --> 01:33:16.000
+Ukubona LLC: Correct. So that you see it there. So you have got no error, there's no mistake on your side, it's just that Windows does this differently. So, uh…
+
+01:33:17.000 --> 01:33:22.000
+Ukubona LLC: So, so I think we're successfully, we're 100% successful with setup.
+
+01:33:23.000 --> 01:33:25.000
+Ukubona LLC: With setting up…
+
+01:33:25.000 --> 01:33:29.000
+Ukubona LLC: uh, your local VS Code, yeah?
+
+01:33:29.000 --> 01:33:32.000
+Ukubona LLC: We're 100% successful, we've set it up.
+
+01:33:31.000 --> 01:33:33.000
+Gabriel Ampaire: Okay.
+
+01:33:32.000 --> 01:33:39.000
+Ukubona LLC: Now, now I just need to modify your code so that you can see the output, the images, the simulations.
+
+01:33:39.000 --> 01:33:41.000
+Ukubona LLC: Yeah?
+
+01:33:44.000 --> 01:33:51.000
+Ukubona LLC: And, uh, so… let's end the session for now, because this has been more than an hour and a half, and you must be tired.
+
+01:33:45.000 --> 01:33:47.000
+Gabriel Ampaire: Yeah.
+
+01:33:51.000 --> 01:34:02.000
+Ukubona LLC: But, uh, congratulations on successfully onboarding. It should be easier than this. Uh, it's just my lack of experience with Windows that made it a little more complicated.
+
+01:34:02.000 --> 01:34:05.000
+Ukubona LLC: Uh, but let me…
+
+01:34:05.000 --> 01:34:12.000
+Ukubona LLC: Update your sessions so that you can do stuff on your own later today and tomorrow, okay?
+
+01:34:14.000 --> 01:34:16.000
+Gabriel Ampaire: Yeah.
+
+01:34:15.000 --> 01:34:20.000
+Ukubona LLC: Okay, well, you take care for now, and you can ask me questions.
+
+01:34:20.000 --> 01:34:24.000
+Ukubona LLC: Uh, anytime by WhatsApp, by email or even call.
+
+01:34:25.000 --> 01:34:32.000
+Ukubona LLC: Alright, but I'm going to… I'm going to send you WhatsApp to let you know when I've updated this later this afternoon.
+
+01:34:36.000 --> 01:34:38.000
+Ukubona LLC: Alright.
+
+01:34:37.000 --> 01:34:39.000
+Gabriel Ampaire: Cool.
+
+01:34:38.000 --> 01:34:41.000
+Ukubona LLC: Alright, alright, take care, Gabriel.
+
+01:34:41.000 --> 01:34:43.000
+Ukubona LLC: Uh, talk soon.
+
+01:34:45.000 --> 01:34:47.000
+Ukubona LLC: Alright, alright. Alright, bye.
+
+01:34:45.000 --> 01:34:48.000
+Gabriel Ampaire: You too. You're coming tomorrow, right?
+
+01:34:48.000 --> 01:34:50.000
+Ukubona LLC: I'm coming tomorrow, yes.
+
+01:34:50.000 --> 01:34:52.000
+Ukubona LLC: So I'll see… I'll see you…
+
+01:34:51.000 --> 01:34:54.000
+Gabriel Ampaire: I'll be seeing you tomorrow. Okay.
+
+01:34:53.000 --> 01:34:56.000
+Ukubona LLC: Alright, I'll see you. Alright, bye-bye.
+
